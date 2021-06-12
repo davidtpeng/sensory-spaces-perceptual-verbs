@@ -1,0 +1,259 @@
+,Unnamed: 0,OlfN,TotalN,Tokens,OAI,OSI
+0,saltiness_NN,10,46,['saltiness_NN'],-2.201633861,12.20838679
+2,smell_NN,328,3290,"['smell_NN', 'smell_NNP']",-3.326319864,7.172762881000001
+3,sweeter_RB,9,101,['sweeter_RBR'],-3.4882864810000003,12.36038988
+5,salty_NN,40,491,['salty_NN'],-3.6176511189999996,10.20838679
+6,smell_VB,297,3701,"['smell_VBP', 'smell_VBD', 'smell_VB', 'smell_VBZ', 'smell_VBG', 'smell_VBN']",-3.639380299,7.315995765
+8,tangy_JJ,12,173,['tangy_JJ'],-3.849665727,11.94535238
+9,bud_NN,211,3100,"['bud_NNS', 'bud_NN', 'bud_NNP']",-3.8769533110000003,7.809215697000001
+10,seasoning_NN,22,327,"['seasoning_NNS', 'seasoning_NN']",-3.893715207,11.07088327
+12,morsel_NN,21,338,"['morsel_NNS', 'morsel_NN', 'morsel_NNPS']",-4.008562014,11.13799746
+15,margarita_NN,8,158,"['margarita_NNS', 'margarita_NN']",-4.303780748,12.53031489
+16,pepper_NN,192,3794,"['pepper_NN', 'pepper_NNS', 'pepper_NNP']",-4.3045414630000005,7.945352385
+18,savor_VB,35,867,"['savor_VBD', 'savor_VBG', 'savor_VB', 'savor_VBP', 'savor_VBN']",-4.6306051660000005,10.40103187
+22,impeccable_JJ,17,546,['impeccable_JJ'],-5.0052943,11.44285204
+23,arbiter_NN,16,525,"['arbiter_NNS', 'arbiter_NN']",-5.036173613,11.53031489
+24,sweeten_VB,12,400,"['sweeten_VB', 'sweeten_VBN', 'sweeten_VBG']",-5.058893689,11.94535238
+26,tart_JJ,9,339,['tart_JJ'],-5.2352164619999995,12.36038988
+27,eclectic_JJ,33,1304,['eclectic_JJ'],-5.304334035,10.48592077
+29,disagreeable_JJ,11,441,['disagreeable_JJ'],-5.325203227,12.07088327
+32,metallic_JJ,33,1414,['metallic_JJ'],-5.421172285,10.48592077
+33,bland_JJ,17,732,['bland_JJ'],-5.428236997000001,11.44285204
+34,vile_JJ,11,479,['vile_JJ'],-5.444450227000001,12.07088327
+36,sweetness_NN,14,622,['sweetness_NN'],-5.473415847999999,11.72295996
+37,spicy_NN,16,744,['spicy_NN'],-5.539158811,11.53031489
+38,treat_NN,29,1359,['treat_NN'],-5.550348746,10.67233389
+39,aversion_NN,26,1221,"['aversion_NN', 'aversion_NNS', 'aversion_NNP']",-5.553407767,10.82987517
+40,appetizer_NN,14,665,"['appetizer_NNS', 'appetizer_NN']",-5.569855607999999,11.72295996
+42,refined_JJ,19,934,['refined_JJ'],-5.619351226,11.28238737
+43,brew_NN,13,648,"['brew_NN', 'brew_NNP']",-5.639410285,11.82987517
+45,mango_NN,16,820,"['mango_NNS', 'mango_NN', 'mango_NNP']",-5.6794801,11.53031489
+47,salsa_NN,13,693,"['salsa_NN', 'salsa_NNS']",-5.736271824,11.82987517
+48,winery_NN,22,1173,"['winery_NN', 'winery_NNP', 'winery_NNS']",-5.736555678999999,11.07088327
+50,cuisine_NN,46,2558,"['cuisine_NN', 'cuisine_NNP', 'cuisine_NNS']",-5.797238592999999,10.00675293
+51,discriminate_VB,17,1008,['discriminate_VBG'],-5.889817082,11.44285204
+54,homemade_NN,17,1086,"['homemade_NN', 'homemade_NNP']",-5.997345547,11.44285204
+55,sauce_NN,52,3326,"['sauce_NN', 'sauce_NNS']",-5.999132735,9.829875167
+57,freshness_NN,9,591,['freshness_NN'],-6.037089319,12.36038988
+58,delicacy_NN,12,790,"['delicacy_NN', 'delicacy_NNS']",-6.040746342,11.94535238
+59,decency_NN,13,861,['decency_NN'],-6.049429709,11.82987517
+60,discerning_JJ,11,731,['discerning_JJ'],-6.054295977000001,12.07088327
+61,exquisite_JJ,23,1534,['exquisite_JJ'],-6.0595208110000005,11.00675293
+63,creamy_JJ,11,746,['creamy_JJ'],-6.083600202,12.07088327
+64,cater_VB,46,3121,"['cater_VBP', 'cater_VB', 'cater_VBG', 'cater_VBN', 'cater_VBZ', 'cater_VBD']",-6.084230686000001,10.00675293
+65,gourmet_NN,14,957,"['gourmet_NN', 'gourmet_NNS']",-6.095020192000001,11.72295996
+66,nutritious_JJ,17,1166,['nutritious_JJ'],-6.099889232000001,11.44285204
+67,suit_VB,124,8638,"['suit_VB', 'suit_VBN', 'suit_VBP', 'suit_VBD', 'suit_VBG', 'suit_VBZ']",-6.122285291,8.576118575
+68,burger_NN,16,1123,"['burger_NN', 'burger_NNS']",-6.133142212,11.53031489
+70,broth_NN,8,575,['broth_NN'],-6.167418146,12.53031489
+71,culinary_JJ,12,882,['culinary_JJ'],-6.199672345,11.94535238
+72,edible_JJ,12,899,['edible_JJ'],-6.227214805,11.94535238
+73,lemon_NN,15,1128,"['lemon_NN', 'lemon_NNP', 'lemon_NNS']",-6.2326607570000006,11.62342429
+74,dish_NN,94,7204,"['dish_NNS', 'dish_NN']",-6.259993614,8.975726034
+75,gratification_NN,12,924,"['gratification_NN', 'gratification_NNS']",-6.266786541,11.94535238
+77,honey_NN,30,2376,"['honey_NN', 'honey_NNS', 'honey_NNP']",-6.307428525,10.62342429
+78,objectionable_JJ,12,952,['objectionable_JJ'],-6.309855262999999,11.94535238
+80,steak_NN,18,1430,"['steak_NN', 'steak_NNS']",-6.31187443,11.36038988
+81,disgusting_JJ,9,716,['disgusting_JJ'],-6.313890776,12.36038988
+83,lobster_NN,8,672,['lobster_NN'],-6.392317423,12.53031489
+84,impart_VB,21,1812,"['impart_VBZ', 'impart_VB', 'impart_VBD', 'impart_VBG', 'impart_VBP']",-6.431049817000001,11.13799746
+86,champagne_NN,12,1042,"['champagne_NN', 'champagne_NNP', 'champagne_NNS']",-6.440177062,11.94535238
+89,stew_NN,8,718,"['stew_NN', 'stew_NNS']",-6.4878400339999995,12.53031489
+90,fried_JJ,9,825,['fried_JJ'],-6.518325308,12.36038988
+91,pastry_NN,9,825,"['pastry_NNS', 'pastry_NN']",-6.518325308,12.36038988
+92,elegance_NN,12,1135,['elegance_NN'],-6.563514081,11.94535238
+93,chef_NN,30,2891,"['chef_NN', 'chef_NNS', 'chef_NNP']",-6.590462297999999,10.62342429
+94,barbecue_NN,10,969,"['barbecue_NN', 'barbecue_NNS']",-6.598424761,12.20838679
+96,upscale_JJ,10,979,['upscale_JJ'],-6.613236955,12.20838679
+99,delight_VB,13,1286,"['delight_VBZ', 'delight_VB', 'delight_VBG']",-6.628235209,11.82987517
+101,cherry_NN,21,2118,"['cherry_NNP', 'cherry_NN', 'cherry_NNS']",-6.656169451,11.13799746
+102,dislike_VB,13,1361,"['dislike_VB', 'dislike_VBP', 'dislike_VBD']",-6.710011633,11.82987517
+104,bitterness_NN,8,862,['bitterness_NN'],-6.7515440589999995,12.53031489
+105,sausage_NN,9,996,"['sausage_NN', 'sausage_NNS']",-6.790076931000001,12.36038988
+106,pie_NN,20,2237,"['pie_NN', 'pie_NNS']",-6.805421446,11.20838679
+108,vinegar_NN,8,929,"['vinegar_NN', 'vinegar_NNS']",-6.859534786,12.53031489
+109,salad_NN,27,3163,"['salad_NN', 'salad_NNS']",-6.872190337999999,10.77542738
+112,sandwich_NN,22,2715,"['sandwich_NNS', 'sandwich_NN']",-6.9473048639999995,11.07088327
+113,palate_NN,8,989,"['palate_NN', 'palate_NNS']",-6.949826711,12.53031489
+114,decor_NN,9,1121,['decor_NN'],-6.960645561000001,12.36038988
+117,cake_NN,30,3817,"['cake_NN', 'cake_NNS', 'cake_NNP']",-6.991332876,10.62342429
+118,chew_VB,17,2177,"['chew_VB', 'chew_VBG', 'chew_VBP', 'chew_VBD']",-7.000662851,11.44285204
+119,vomiting_NN,12,1544,['vomiting_NN'],-7.007494537,11.94535238
+122,lamb_NN,8,1040,['lamb_NN'],-7.022367813,12.53031489
+123,refinement_NN,14,1835,['refinement_NN'],-7.034209426,11.72295996
+126,seafood_NN,14,1865,['seafood_NN'],-7.057604992999999,11.72295996
+127,shit_NN,10,1333,['shit_NN'],-7.05853297,12.20838679
+128,olive_JJ,13,1746,['olive_JJ'],-7.069398125,11.82987517
+129,pizza_NN,25,3385,"['pizza_NN', 'pizza_NNS', 'pizza_NNP']",-7.081083929,10.8864587
+130,tomato_NN,22,3004,"['tomato_NN', 'tomato_NNS', 'tomato_NNPS', 'tomato_NNP']",-7.093237479,11.07088327
+131,mustard_NN,8,1100,['mustard_NN'],-7.103287807999999,12.53031489
+132,spectator_NN,12,1657,"['spectator_NNP', 'spectator_NNS']",-7.109395387,11.94535238
+133,dessert_NN,15,2075,"['dessert_NN', 'dessert_NNS']",-7.112005026,11.62342429
+134,citrus_NN,8,1110,"['citrus_NN', 'citrus_NNP']",-7.116343961,12.53031489
+135,snack_NN,27,3827,"['snack_NNS', 'snack_NN']",-7.147110683999999,10.77542738
+136,temperament_NN,9,1283,"['temperament_NNS', 'temperament_NN']",-7.1553804539999994,12.36038988
+138,wonderfully_RB,10,1445,['wonderfully_RB'],-7.174925683,12.20838679
+139,tender_NN,25,3655,['tender_NN'],-7.191799501,10.8864587
+140,refreshing_JJ,10,1475,['refreshing_JJ'],-7.204571144,12.20838679
+141,recipe_NN,34,5162,"['recipe_NNS', 'recipe_NN']",-7.246251585,10.44285204
+142,coke_NN,8,1218,"['coke_NN', 'coke_NNP']",-7.250298418,12.53031489
+143,musical_JJ,92,14039,['musical_JJ'],-7.253590599,9.006752929
+145,preference_NN,94,14501,"['preference_NNS', 'preference_NN']",-7.269275921,8.975726034
+147,juice_NN,32,5020,"['juice_NN', 'juice_NNS']",-7.293471649,10.53031489
+149,cream_NN,31,4864,"['cream_NN', 'cream_NNP']",-7.293731202999999,10.57611858
+150,vineyard_NN,8,1256,"['vineyard_NN', 'vineyard_NNS']",-7.294620749,12.53031489
+151,sensibility_NN,11,1741,"['sensibility_NN', 'sensibility_NNS']",-7.306268869,12.07088327
+152,indulge_VB,11,1741,"['indulge_VB', 'indulge_VBN', 'indulge_VBG', 'indulge_VBD']",-7.306268869,12.07088327
+154,tempt_VB,13,2076,"['tempt_VBP', 'tempt_VBN', 'tempt_VB', 'tempt_VBD']",-7.31915101,11.82987517
+156,pasta_NN,9,1460,"['pasta_NN', 'pasta_NNS']",-7.341827652,12.36038988
+157,authentic_JJ,26,4330,['authentic_JJ'],-7.379711591,10.82987517
+158,swallow_VB,19,3226,"['swallow_VBG', 'swallow_VBN', 'swallow_VB', 'swallow_VBP', 'swallow_VBZ']",-7.40760321,11.28238737
+159,exotic_JJ,25,4291,['exotic_JJ'],-7.423241996000001,10.8864587
+160,irritation_NN,8,1391,['irritation_NN'],-7.441906705,12.53031489
+161,fry_NN,13,2285,"['fry_NN', 'fry_NNS', 'fry_NNP']",-7.457538732000001,11.82987517
+165,fare_NN,14,2541,['fare_NN'],-7.503825738,11.72295996
+166,sweet_NN,11,1999,"['sweet_NNS', 'sweet_NNP']",-7.505631137999999,12.07088327
+167,blind_JJ,36,6817,['blind_JJ'],-7.5649962660000005,10.36038988
+168,rib_NN,9,1720,"['rib_NN', 'rib_NNS']",-7.578267847999999,12.36038988
+169,menu_NN,86,16550,"['menu_NN', 'menu_NNS', 'menu_NNP']",-7.588278842,9.104050131000001
+170,food_NN,543,105205,"['food_NN', 'food_NNS', 'food_NNP', 'food_NNPS']",-7.598035359,6.445506497999999
+172,stimulus_NN,18,3544,"['stimulus_NNS', 'stimulus_NN']",-7.621237887,11.36038988
+173,mushroom_NN,26,5120,"['mushroom_NNS', 'mushroom_NNPS', 'mushroom_NN']",-7.621488377,10.82987517
+174,aesthetic_JJ,19,3795,['aesthetic_JJ'],-7.641956657000001,11.28238737
+176,undesirable_JJ,10,2006,['undesirable_JJ'],-7.648177796000001,12.20838679
+177,craving_NN,10,2040,['craving_NN'],-7.672425342,12.20838679
+179,appetite_NN,13,2670,"['appetite_NN', 'appetite_NNS']",-7.682184307999999,11.82987517
+180,carrot_NN,8,1660,"['carrot_NNS', 'carrot_NN']",-7.696967526,12.53031489
+181,pork_NN,9,1868,['pork_NN'],-7.6973537379999994,12.36038988
+182,appealing_JJ,9,1880,['appealing_JJ'],-7.706591945,12.36038988
+183,herbal_JJ,8,1696,['herbal_JJ'],-7.727920455,12.53031489
+185,fruit_NN,89,19042,"['fruit_NN', 'fruit_NNS', 'fruit_NNP']",-7.741163962999999,9.054581455
+188,bean_NN,22,4805,"['bean_NNS', 'bean_NN']",-7.770889097,11.07088327
+189,vegetable_NN,53,11625,"['vegetable_NN', 'vegetable_NNS', 'vegetable_NNP']",-7.777022641,9.802394431
+190,potato_NN,22,4832,"['potato_NNS', 'potato_NN']",-7.778973121,11.07088327
+191,nausea_NN,13,2860,['nausea_NN'],-7.781359714,11.82987517
+192,acquire_VB,120,26646,"['acquire_VB', 'acquire_VBN', 'acquire_VBP', 'acquire_VBD', 'acquire_VBG', 'acquire_VBZ']",-7.794740761,8.62342429
+193,stuff_VB,9,2039,"['stuff_VBD', 'stuff_VBN', 'stuff_VBG']",-7.8237210589999995,12.36038988
+194,beverage_NN,24,5457,"['beverage_NNS', 'beverage_NN', 'beverage_NNP']",-7.828929828,10.94535238
+195,nutritional_JJ,17,3874,['nutritional_JJ'],-7.832145397000001,11.44285204
+196,delicate_JJ,16,3687,['delicate_JJ'],-7.8482317010000004,11.53031489
+197,intellect_NN,8,1869,['intellect_NN'],-7.868050854,12.53031489
+198,cocktail_NN,9,2124,"['cocktail_NN', 'cocktail_NNS']",-7.8826430489999995,12.36038988
+199,candy_NN,12,2859,"['candy_NN', 'candy_NNS']",-7.896332404,11.94535238
+200,nicotine_NN,9,2146,['nicotine_NN'],-7.897509359,12.36038988
+202,meal_NN,84,20210,"['meal_NN', 'meal_NNP', 'meal_NNS']",-7.910464277999999,9.137997463
+203,sugar_NN,40,9826,"['sugar_NN', 'sugar_NNS', 'sugar_NNP']",-7.940460429,10.20838679
+204,refine_VB,23,5698,"['refine_VBN', 'refine_VBG', 'refine_VB']",-7.95267795,11.00675293
+205,banana_NN,8,1986,"['banana_NN', 'banana_NNS']",-7.955649908,12.53031489
+206,habit_NN,48,12338,"['habit_NNS', 'habit_NN']",-8.00585843,9.945352385
+207,cultivate_VB,18,4696,"['cultivate_VBN', 'cultivate_VB', 'cultivate_VBD', 'cultivate_VBZ', 'cultivate_VBP']",-8.027291692,11.36038988
+208,condition_VB,8,2123,['condition_VBN'],-8.051888656000001,12.53031489
+209,drink_NN,42,11207,"['drink_NN', 'drink_NNS']",-8.059795092,10.13799746
+210,boil_VB,12,3256,"['boil_VBN', 'boil_VBG', 'boil_VBZ']",-8.083922484,11.94535238
+212,alteration_NN,15,4151,"['alteration_NNS', 'alteration_NN', 'alteration_NNP']",-8.112352621,11.62342429
+213,questionable_JJ,10,2815,['questionable_JJ'],-8.136991112,12.20838679
+215,healthier_RB,9,2572,['healthier_RBR'],-8.158749926,12.36038988
+218,ingredient_NN,27,7846,"['ingredient_NN', 'ingredient_NNS']",-8.182854118,10.77542738
+219,eating_NN,10,2936,['eating_NN'],-8.197708158,12.20838679
+220,bite_VB,11,3282,"['bite_VBG', 'bite_VBZ', 'bite_VB', 'bite_VBP']",-8.220927905,12.07088327
+221,grape_NN,8,2395,"['grape_NNS', 'grape_NN']",-8.225809941,12.53031489
+222,delight_NN,9,2699,['delight_NN'],-8.22828426,12.36038988
+223,season_NN,120,36017,"['season_NN', 'season_NNPS', 'season_NNS']",-8.229499802000001,8.62342429
+224,offend_VB,8,2410,"['offend_VB', 'offend_VBD', 'offend_VBN', 'offend_VBZ']",-8.234817431,12.53031489
+225,berry_NN,10,3047,"['berry_NN', 'berry_NNS', 'berry_NNP']",-8.25124569,12.20838679
+227,enjoyment_NN,11,3482,"['enjoyment_NNS', 'enjoyment_NN']",-8.306268869,12.07088327
+228,simplicity_NN,11,3484,"['simplicity_NN', 'simplicity_NNS']",-8.30709729,12.07088327
+229,drinking_NN,26,8247,['drinking_NN'],-8.309213974,10.82987517
+230,tap_VB,13,4135,"['tap_VBP', 'tap_VB']",-8.313231896,11.82987517
+231,imagination_NN,21,6706,"['imagination_NN', 'imagination_NNS']",-8.318919345,11.13799746
+232,blend_VB,14,4516,"['blend_VB', 'blend_VBZ']",-8.333474849,11.72295996
+233,receptor_NN,17,5495,"['receptor_NNS', 'receptor_NN']",-8.336440925,11.44285204
+234,artistic_JJ,28,9054,['artistic_JJ'],-8.336984669,10.72295996
+237,chaos_NN,11,3613,"['chaos_NNP', 'chaos_NN']",-8.359549921000001,12.07088327
+238,grand_NN,20,6687,['grand_NNP'],-8.385215307000001,11.20838679
+239,varied_JJ,12,4028,['varied_JJ'],-8.390885467,11.94535238
+240,drunk_JJ,8,2725,['drunk_JJ'],-8.412040515,12.53031489
+241,nicely_RB,8,2748,['nicely_RB'],-8.424166289,12.53031489
+242,smooth_JJ,25,8612,"['smooth_JJ', 'smooth_JJR', 'smooth_JJS']",-8.428276413999999,10.8864587
+243,forbid_VB,9,3104,"['forbid_VBN', 'forbid_VBD']",-8.429987841,12.36038988
+245,butter_NN,8,2819,['butter_NN'],-8.460967763,12.53031489
+246,cook_NN,8,2861,"['cook_NN', 'cook_NNS']",-8.482303782,12.53031489
+247,satisfy_VB,52,18764,"['satisfy_VB', 'satisfy_VBG', 'satisfy_VBN', 'satisfy_VBP', 'satisfy_VBZ']",-8.495240067000001,9.829875167
+248,adventure_NN,20,7271,"['adventure_NN', 'adventure_NNS']",-8.506009985,11.20838679
+249,onion_NN,8,2940,"['onion_NN', 'onion_NNS']",-8.52160044,12.53031489
+250,italian_JJ,25,9208,['italian_JJ'],-8.524815927999999,10.8864587
+251,adjust_VB,41,15276,"['adjust_VB', 'adjust_VBP', 'adjust_VBG', 'adjust_VBN']",-8.5414272,10.17276288
+252,good_JJ,858,320298,"['good_JJR', 'good_JJ']",-8.544221427,5.785481047999999
+254,powder_NN,9,3397,"['powder_NN', 'powder_NNS']",-8.560120501,12.36038988
+255,suit_NN,38,14360,"['suit_NNS', 'suit_NN']",-8.561840615,10.28238737
+256,eat_VB,99,37453,"['eat_VBG', 'eat_VB', 'eat_VBD', 'eat_VBP', 'eat_VBZ', 'eat_VBN']",-8.563437042999999,8.900958265
+257,appeal_VB,29,11033,"['appeal_VBG', 'appeal_VB', 'appeal_VBP', 'appeal_VBD']",-8.571556514,10.67233389
+258,rice_NN,26,9910,"['rice_NN', 'rice_NNP']",-8.574229623999999,10.82987517
+260,herb_NN,9,3494,"['herb_NNS', 'herb_NN']",-8.600738891,12.36038988
+261,convenience_NN,18,7061,['convenience_NN'],-8.6157318,11.36038988
+262,inexpensive_JJ,11,4338,['inexpensive_JJ'],-8.623382719,12.07088327
+263,beef_NN,23,9150,['beef_NN'],-8.635994072,11.00675293
+264,sentiment_NN,12,4794,"['sentiment_NN', 'sentiment_NNS']",-8.642051692999999,11.94535238
+265,dress_NN,17,6841,"['dress_NN', 'dress_NNS', 'dress_NNP']",-8.652528672999999,11.44285204
+266,subjective_JJ,10,4025,['subjective_JJ'],-8.652844972999999,12.20838679
+267,literary_JJ,22,8894,['literary_JJ'],-8.659185071,11.07088327
+268,enjoy_VB,114,46204,"['enjoy_VB', 'enjoy_VBG', 'enjoy_VBD', 'enjoy_VBP', 'enjoy_VBN', 'enjoy_VBZ']",-8.66284012,8.697424871
+269,neuron_NN,9,3652,"['neuron_NNS', 'neuron_NN']",-8.664546049,12.36038988
+270,drink_VB,23,9360,"['drink_VBP', 'drink_VB', 'drink_VBG', 'drink_VBD']",-8.668730858,11.00675293
+271,nut_NN,10,4080,"['nut_NNS', 'nut_NN']",-8.672425342,12.20838679
+272,pleasure_NN,29,11859,"['pleasure_NNS', 'pleasure_NN']",-8.675713745,10.67233389
+275,throat_NN,11,4581,"['throat_NN', 'throat_NNP']",-8.702015229,12.07088327
+276,sacrifice_VB,9,3752,"['sacrifice_VB', 'sacrifice_VBG', 'sacrifice_VBN']",-8.703519111,12.36038988
+277,turkey_NN,15,6255,"['turkey_NN', 'turkey_NNP']",-8.703903573,11.62342429
+278,salmon_NN,15,6261,['salmon_NN'],-8.70528679,11.62342429
+279,harsh_JJ,10,4197,['harsh_JJ'],-8.713214653,12.20838679
+281,mood_NN,15,6358,"['mood_NN', 'mood_NNS']",-8.727466706,11.62342429
+283,lifestyle_NN,21,8963,"['lifestyle_NN', 'lifestyle_NNS']",-8.737448559,11.13799746
+284,sample_VB,10,4305,"['sample_VBN', 'sample_VBD', 'sample_VBG']",-8.749869427,12.20838679
+285,calorie_NN,8,3470,['calorie_NNS'],-8.760719947,12.53031489
+286,raw_JJ,21,9128,['raw_JJ'],-8.763765654,11.13799746
+287,decorate_VB,9,3929,"['decorate_VBN', 'decorate_VBG', 'decorate_VB']",-8.770021451,12.36038988
+289,luxury_NN,11,4826,"['luxury_NN', 'luxury_NNS']",-8.777180582,12.07088327
+290,lip_NN,12,5346,"['lip_NNS', 'lip_NNP', 'lip_NN']",-8.799281622,11.94535238
+291,cup_NN,20,8959,"['cup_NN', 'cup_NNP', 'cup_NNS']",-8.807193898,11.20838679
+293,rich_JJ,57,25696,"['rich_JJR', 'rich_JJ', 'rich_JJS']",-8.816366163,9.697424871
+294,melt_VB,11,4962,"['melt_VBG', 'melt_VB', 'melt_VBD', 'melt_VBZ', 'melt_VBP', 'melt_VBN']",-8.817274401,12.07088327
+295,sampling_NN,15,6891,"['sampling_NN', 'sampling_NNS']",-8.843607046,11.62342429
+296,nutrition_NN,24,11081,"['nutrition_NN', 'nutrition_NNP']",-8.850837961,10.94535238
+297,specialty_NN,18,8360,"['specialty_NN', 'specialty_NNS']",-8.859362226,11.36038988
+300,sophisticated_JJ,23,10995,['sophisticated_JJ'],-8.900998028,11.00675293
+301,breakfast_NN,22,10524,"['breakfast_NN', 'breakfast_NNS']",-8.901963915,11.07088327
+302,tailor_VB,13,6270,"['tailor_VBD', 'tailor_VBN', 'tailor_VB', 'tailor_VBG']",-8.91381001,11.82987517
+303,lunch_NN,26,12763,"['lunch_NN', 'lunch_NNS']",-8.939240142000001,10.82987517
+304,tour_NN,47,23179,"['tour_NNS', 'tour_NN', 'tour_NNP']",-8.945941853999999,9.975726034
+309,tangible_JJ,9,4526,['tangible_JJ'],-8.974095868,12.36038988
+311,liquid_NN,13,6583,"['liquid_NN', 'liquid_NNS']",-8.984089764,11.82987517
+312,fine_JJ,55,28426,"['fine_JJ', 'fine_JJS']",-9.013563769,9.748955172
+314,personal_JJ,174,92242,['personal_JJ'],-9.050192678,8.08737139
+315,appearance_NN,32,17050,"['appearance_NN', 'appearance_NNS']",-9.057484119,10.53031489
+316,victory_NN,18,9620,['victory_NN'],-9.061896177000001,11.36038988
+317,seasonal_JJ,10,5368,['seasonal_JJ'],-9.068240861,12.20838679
+318,perception_NN,29,15709,"['perception_NN', 'perception_NNS']",-9.081322729,10.67233389
+319,lover_NN,9,4909,"['lover_NN', 'lover_NNP', 'lover_NNS']",-9.09128845,12.36038988
+320,healthy_JJ,44,24039,"['healthy_JJ', 'healthy_JJS']",-9.093657643,10.07088327
+321,surprisingly_RB,10,5500,['surprisingly_RB'],-9.103287808,12.20838679
+323,organic_JJ,31,17262,['organic_JJ'],-9.121115696,10.57611858
+327,fat_NN,8,4647,"['fat_NN', 'fat_NNP', 'fat_NNS']",-9.18208393,12.53031489
+328,generous_JJ,11,6401,['generous_JJ'],-9.184649975,12.07088327
+330,contemporary_JJ,29,16974,['contemporary_JJ'],-9.193057967,10.67233389
+331,heaven_NN,10,5875,"['heaven_NN', 'heaven_NNP']",-9.198445041,12.20838679
+332,sensitivity_NN,14,8226,"['sensitivity_NN', 'sensitivity_NNS']",-9.198620434,11.72295996
+333,matter_NN,157,93040,"['matter_NNS', 'matter_NN']",-9.210942727,8.235694137000001
+334,restaurant_NN,39,23342,"['restaurant_NNS', 'restaurant_NN', 'restaurant_NNP']",-9.225238341,10.24491267
+335,style_NN,58,35165,"['style_NNS', 'style_NN']",-9.243871602,9.67233389
+336,joy_NN,15,9132,"['joy_NN', 'joy_NNS', 'joy_NNP']",-9.249824549,11.62342429
+337,indian_JJ,30,18656,['indian_JJ'],-9.280461478,10.62342429
+338,mask_NN,10,6225,"['mask_NN', 'mask_NNS']",-9.281930027000001,12.20838679
+339,reflect_VB,83,51672,"['reflect_VBG', 'reflect_VBD', 'reflect_VBZ', 'reflect_VB', 'reflect_VBP', 'reflect_VBN']",-9.282055674,9.155275454
+341,mineral_NN,14,8755,"['mineral_NN', 'mineral_NNS']",-9.288536541000001,11.72295996
+342,plain_JJ,11,6933,['plain_JJ'],-9.299832427,12.07088327
+343,humor_NN,9,5694,['humor_NN'],-9.305301776,12.36038988
+344,bottle_NN,15,9492,"['bottle_NNS', 'bottle_NN']",-9.30560579,11.62342429
+346,fat_JJ,14,9037,['fat_JJ'],-9.334273285,11.72295996
+347,compound_NN,20,12947,"['compound_NN', 'compound_NNS']",-9.338402129,11.20838679
+348,essence_NN,10,6487,['essence_NN'],-9.341407628999999,12.20838679

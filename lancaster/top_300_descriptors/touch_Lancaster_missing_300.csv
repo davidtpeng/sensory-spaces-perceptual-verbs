@@ -1,0 +1,14 @@
+,Unnamed: 0,OlfN,TotalN,Tokens,OAI,OSI
+2,midas_NN,20,89,"['midas_NNP', 'midas_NNPS']",-2.153805336,11.87929606
+3,cognize_VB,10,78,"['cognize_VBG', 'cognize_VBN']",-2.9634741239999998,12.87929606
+7,deft_JJ,18,229,['deft_JJ'],-3.669278787,12.03129915
+11,reiki_NN,10,200,"['reiki_NNP', 'reiki_NN']",-4.321928095,12.87929606
+16,crowning_JJ,10,323,['crowning_JJ'],-5.01346226,12.87929606
+27,tt_NN,11,606,['tt_NNP'],-5.783742365,12.74179254
+29,sens_NN,60,3703,['sens_NNS'],-5.947588239,10.29433356
+40,typing_NN,12,919,"['typing_NN', 'typing_NNP']",-6.258958551,12.61626165
+97,re_NN,12,1912,"['re_NNS', 're_NN']",-7.315904307,12.61626165
+135,thai_NN,11,2795,['thai_NNP'],-7.989200949,12.74179254
+139,jennifer_NN,10,2570,['jennifer_NNP'],-8.005624549,12.87929606
+199,alumnus_NN,55,19293,"['alumnus_NNS', 'alumnus_NN', 'alumnus_NNP']",-8.454430161,10.41986444
+248,wo_MD,55,25043,['wo_MD'],-8.830760065,10.41986444

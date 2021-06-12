@@ -1,0 +1,9 @@
+,Unnamed: 0,OlfN,TotalN,Tokens,OAI,OSI
+1,odour_NN,74,373,"['odour_NNS', 'odour_NN']",-2.333578455,9.32086152
+3,sweeter_RB,9,101,['sweeter_RBR'],-3.4882864810000003,12.36038988
+23,arbiter_NN,16,525,"['arbiter_NNS', 'arbiter_NN']",-5.036173613,11.53031489
+76,sens_NN,48,3703,['sens_NNS'],-6.269516332999999,9.945352385
+171,re_NN,9,1765,['re_NN'],-7.615527467000001,12.36038988
+215,healthier_RB,9,2572,['healthier_RBR'],-8.158749926,12.36038988
+221,grape_NN,8,2395,"['grape_NNS', 'grape_NN']",-8.225809941,12.53031489
+250,italian_JJ,25,9208,['italian_JJ'],-8.524815927999999,10.8864587

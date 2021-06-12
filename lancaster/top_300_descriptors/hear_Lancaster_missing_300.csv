@@ -1,0 +1,20 @@
+,Unnamed: 0,OlfN,TotalN,Tokens,OAI,OSI
+0,sensorineural_JJ,58,74,['sensorineural_JJ'],-0.351472371,12.57310848
+1,evidentiary_JJ,530,1512,['evidentiary_JJ'],-1.512393875,9.381240921
+10,arb_NN,71,605,"['arb_NNP', 'arb_NN']",-3.091044213,12.28134235
+11,din_NN,37,317,['din_NN'],-3.098885665,13.22163611
+14,pre-trial_JJ,37,334,['pre-trial_JJ'],-3.1742509269999997,13.22163611
+30,revocation_NN,107,1665,"['revocation_NN', 'revocation_NNS', 'revocation_NNP']",-3.9598394760000004,11.68962248
+35,alito_NN,36,626,['alito_NNP'],-4.120093845,13.26116447
+41,remand_NN,41,820,['remand_NN'],-4.321928095,13.07353747
+57,remand_VB,59,1527,"['remand_VB', 'remand_VBN', 'remand_VBD', 'remand_VBP']",-4.693841297,12.54844642
+67,'ve_VB,3480,106163,"[""'ve_VBP"", ""'ve_VB""]",-4.931049928,6.66621788
+94,first-hand_JJ,42,1692,['first-hand_JJ'],-5.33219643,13.03877205
+104,'d_VB,71,3295,"[""'d_VBD""]",-5.53631563,12.28134235
+106,dhamma_NN,79,3731,"['dhamma_NNP', 'dhamma_NN']",-5.561565897,12.12730872
+124,'d_MD,945,51923,"[""'d_MD""]",-5.779915602000001,8.546918952
+149,sens_NN,55,3703,['sens_NNS'],-6.073119121,12.64972976
+195,complainant_NN,261,21514,"['complainant_NN', 'complainant_NNP', 'complainant_NNS', 'complainant_NNPS']",-6.3650821660000005,10.40318347
+251,'ll_MD,645,72720,"[""'ll_MD""]",-6.816909229,9.09793412
+253,buddha_NN,143,16186,"['buddha_NNP', 'buddha_NN', 'buddha_NNPS']",-6.822587542999999,11.27121813
+277,sydney_NN,38,4762,['sydney_NNP'],-6.9694243920000005,13.18316196
