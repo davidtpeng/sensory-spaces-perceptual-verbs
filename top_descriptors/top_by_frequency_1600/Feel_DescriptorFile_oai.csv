@@ -1,0 +1,1026 @@
+,OlfN,TotalN,Tokens,OAI,OSI
+require_VB,115,263902,"['require_VBZ', 'require_VBD', 'require_VB', 'require_VBN', 'require_VBP', 'require_VBG']",-11.16415271,11.90675991
+development_NN,109,245569,"['development_NN', 'development_NNS', 'development_NNP']",-11.1375846,11.98406564
+research_NN,181,316061,"['research_NNP', 'research_NN']",-10.76999761,11.25240407
+center_NN,109,172544,"['center_NNP', 'center_NN', 'center_NNS', 'center_NNPS']",-10.62842046,11.98406564
+study_NN,160,245016,"['study_NNPS', 'study_NNS', 'study_NN', 'study_NNP']",-10.58058834,11.43032187
+use_NN,137,209283,"['use_NN', 'use_NNP']",-10.57706352,11.65421788
+system_NN,303,454632,"['system_NNP', 'system_NN', 'system_NNS', 'system_NNPS']",-10.55116573,10.50907598
+provide_VB,362,540414,"['provide_VB', 'provide_VBN', 'provide_VBD', 'provide_VBZ', 'provide_VBG', 'provide_VBP']",-10.54385964,10.25240407
+law_NN,142,211470,"['law_NN', 'law_NNS', 'law_NNP']",-10.54034637,11.60250284
+computer_NN,87,128693,"['computer_NN', 'computer_NNP', 'computer_NNS']",-10.53063056,12.30930647
+source_NN,87,126422,"['source_NN', 'source_NNS', 'source_NNP']",-10.50494452,12.30930647
+service_NN,314,442476,"['service_NN', 'service_NNS', 'service_NNPS', 'service_NNP']",-10.46061893,10.45762921
+serve_VB,92,127550,"['serve_VBZ', 'serve_VB', 'serve_VBG', 'serve_VBD', 'serve_VBP', 'serve_VBN']",-10.43714142,12.22868801
+plan_NN,103,142105,"['plan_NN', 'plan_NNS', 'plan_NNP']",-10.43009726,12.06574943
+include_VB,390,529151,"['include_VBP', 'include_VB', 'include_VBG', 'include_VBZ', 'include_VBN', 'include_VBD']",-10.40598963,10.14491965
+market_NN,108,144099,"['market_NN', 'market_NNS', 'market_NNP']",-10.3818133,11.99736246
+health_NN,151,201102,"['health_NN', 'health_NNP']",-10.37916316,11.51384522
+science_NN,97,125188,"['science_NNS', 'science_NN', 'science_NNP']",-10.33382391,12.15233712
+number_NN,211,268825,"['number_NNS', 'number_NN']",-10.3152086,11.03115077
+university_NN,199,252977,"['university_NNP', 'university_NN', 'university_NNS']",-10.31202208,11.11562534
+management_NN,130,163898,"['management_NN', 'management_NNP']",-10.30007091,11.72988215
+field_NN,117,144039,"['field_NNS', 'field_NN', 'field_NNP']",-10.26573524,11.88188524
+period_NN,97,118831,"['period_NN', 'period_NNS']",-10.25863888,12.15233712
+agency_NN,95,115738,"['agency_NNS', 'agency_NN', 'agency_NNP', 'agency_NNPS']",-10.25064749,12.18239435
+technology_NN,145,173078,"['technology_NN', 'technology_NNP', 'technology_NNS']",-10.22115374,11.57234087
+education_NN,173,206400,"['education_NN', 'education_NNP']",-10.22045522,11.31762173
+set_VB,123,146067,"['set_VBG', 'set_VB', 'set_VBD', 'set_VBP', 'set_VBN', 'set_VBZ']",-10.21375625,11.80973546
+national_JJ,91,107748,['national_JJ'],-10.20950692,12.24445532
+major_JJ,111,131407,['major_JJ'],-10.20926674,11.9578341
+web_NN,105,124251,"['web_NNP', 'web_NN']",-10.20865242,12.03800444
+base_VB,131,152541,"['base_VBN', 'base_VB']",-10.18541454,11.71882696
+court_NN,161,186109,"['court_NN', 'court_NNS', 'court_NNP']",-10.17487142,11.42133308
+policy_NN,179,201461,"['policy_NNS', 'policy_NN', 'policy_NNP']",-10.13632528,11.26843418
+purpose_NN,87,97845,"['purpose_NN', 'purpose_NNS']",-10.13526701,12.30930647
+county_NN,91,101818,"['county_NNP', 'county_NN', 'county_NNS']",-10.12783847,12.24445532
+appear_VB,92,101457,"['appear_VBP', 'appear_VBZ', 'appear_VB', 'appear_VBD', 'appear_VBG', 'appear_VBN']",-10.10694693,12.22868801
+program_NN,466,513286,"['program_NN', 'program_NNS', 'program_NNP']",-10.10521724,9.888063817
+information_NN,392,430385,"['information_NN', 'information_NNP']",-10.10055843,10.13754012
+consider_VB,148,161984,"['consider_VB', 'consider_VBN', 'consider_VBZ', 'consider_VBG', 'consider_VBP', 'consider_VBD']",-10.09603843,11.5427966
+name_NN,113,123086,"['name_NNS', 'name_NN']",-10.08912819,11.932071
+report_NN,149,157513,"['report_NN', 'report_NNS', 'report_NNP']",-10.04594286,11.53308144
+identify_VB,114,120425,"['identify_VB', 'identify_VBN', 'identify_VBZ', 'identify_VBP', 'identify_VBG', 'identify_VBD']",-10.04488538,11.91935995
+act_NN,102,106540,"['act_NN', 'act_NNS', 'act_NNP']",-10.02861032,12.07982462
+material_NN,133,138503,"['material_NNS', 'material_NN']",-10.02427526,11.69696753
+various_JJ,94,97198,['various_JJ'],-10.01405016,12.19766111
+specific_JJ,98,100721,['specific_JJ'],-10.00529514,12.13754012
+office_NN,160,162664,"['office_NN', 'office_NNP', 'office_NNS']",-9.989607376,11.43032187
+build_VB,109,110745,"['build_VBN', 'build_VBG', 'build_VB', 'build_VBP', 'build_VBZ', 'build_VBD']",-9.988697714,11.98406564
+building_NN,93,93646,"['building_NN', 'building_NNS', 'building_NNP']",-9.975770941,12.21309115
+united_NN,124,124464,['united_NNP'],-9.971172681,11.79805365
+communication_NN,98,97781,"['communication_NN', 'communication_NNS', 'communication_NNP', 'communication_NNPS']",-9.962556695,12.13754012
+business_NN,248,245578,"['business_NN', 'business_NNS', 'business_NNP']",-9.951625487,10.79805365
+addition_NN,110,108804,"['addition_NN', 'addition_NNS']",-9.950012357,11.97089025
+training_NN,104,102744,['training_NN'],-9.948254903,12.05181024
+practice_NN,118,116250,"['practice_NN', 'practice_NNS']",-9.944228141,11.86960691
+project_NN,235,230039,"['project_NN', 'project_NNS', 'project_NNP', 'project_NNPS']",-9.935001999,10.87573302
+director_NN,92,89486,"['director_NN', 'director_NNP', 'director_NNS']",-9.925812415,12.22868801
+amount_NN,100,97261,"['amount_NN', 'amount_NNS']",-9.925717615,12.10839377
+design_NN,110,106824,"['design_NN', 'design_NNS', 'design_NNP']",-9.923516573,11.97089025
+late_JJ,88,85029,"['late_JJ', 'late_JJS']",-9.916235732,12.29281834
+reduce_VB,112,106452,"['reduce_VBN', 'reduce_VB', 'reduce_VBG', 'reduce_VBD', 'reduce_VBZ', 'reduce_VBP']",-9.892488608,11.94489504
+local_JJ,175,163779,['local_JJ'],-9.870179747,11.30103885
+test_NN,116,108325,"['test_NN', 'test_NNS']",-9.867025716,11.89426897
+exist_VB,119,110604,"['exist_VB', 'exist_VBZ', 'exist_VBG', 'exist_VBD', 'exist_VBP', 'exist_VBN']",-9.860226273,11.8574322
+paper_NN,120,111272,"['paper_NN', 'paper_NNS', 'paper_NNP']",-9.856840484,11.84535937
+page_NN,106,98076,"['page_NN', 'page_NNS', 'page_NNP']",-9.853692065,12.02432951
+large_JJ,224,206532,"['large_JJR', 'large_JJ', 'large_JJS']",-9.848650882,10.94489504
+institution_NN,89,81686,"['institution_NN', 'institution_NNS', 'institution_NNP']",-9.842067788,12.27651653
+care_NN,165,151098,"['care_NN', 'care_NNP']",-9.838802825,11.38592775
+goal_NN,106,96746,"['goal_NNS', 'goal_NN', 'goal_NNP']",-9.833993939,12.02432951
+new_NN,142,128408,['new_NNP'],-9.820628442,11.60250284
+type_NN,152,137145,"['type_NN', 'type_NNS', 'type_NNP']",-9.817414987,11.50432245
+water_NN,181,163195,"['water_NN', 'water_NNS', 'water_NNP']",-9.816391444,11.25240407
+department_NN,205,184694,"['department_NNP', 'department_NN', 'department_NNS']",-9.815297374,11.07276986
+product_NN,192,170736,"['product_NNS', 'product_NN', 'product_NNPS']",-9.796445259,11.16728746
+line_NN,141,125281,"['line_NN', 'line_NNS', 'line_NNP']",-9.795256755,11.61269861
+performance_NN,129,113967,"['performance_NN', 'performance_NNS', 'performance_NNPS', 'performance_NNP']",-9.787029361,11.74102271
+site_NN,224,196588,"['site_NNS', 'site_NN', 'site_NNP']",-9.777460813,10.94489504
+state_NN,599,520935,"['state_NN', 'state_NNP', 'state_NNPS', 'state_NNS']",-9.764331652,9.525837769
+seek_VB,101,87684,"['seek_VB', 'seek_VBG', 'seek_VBN', 'seek_VBD', 'seek_VBP', 'seek_VBZ']",-9.76181451,12.09403848
+order_NN,203,176068,"['order_NN', 'order_NNS', 'order_NNP']",-9.760437283,11.08691404
+course_NN,269,232622,"['course_NN', 'course_NNS', 'course_NNP']",-9.756165657,10.6807876
+process_NN,272,234491,"['process_NN', 'process_NNS']",-9.751710185,10.66478712
+pay_VB,150,129044,"['pay_VBN', 'pay_VB', 'pay_VBP', 'pay_VBG', 'pay_VBD', 'pay_VBZ']",-9.748684848,11.52343127
+college_NN,144,123594,"['college_NN', 'college_NNP', 'college_NNS']",-9.745324181,11.58232496
+use_VB,879,746384,"['use_VBG', 'use_VB', 'use_VBZ', 'use_VBD', 'use_VBN', 'use_VBP']",-9.729839179,8.972530607
+significant_JJ,99,83319,['significant_JJ'],-9.717001284,12.12289334
+maintain_VB,102,85836,"['maintain_VB', 'maintain_VBG', 'maintain_VBN', 'maintain_VBZ', 'maintain_VBP', 'maintain_VBD']",-9.716869885,12.07982462
+follow_VB,193,162387,"['follow_VBD', 'follow_VBP', 'follow_VBG', 'follow_VB', 'follow_VBZ', 'follow_VBN']",-9.716619578,11.15979292
+receive_VB,219,183455,"['receive_VB', 'receive_VBZ', 'receive_VBD', 'receive_VBG', 'receive_VBN', 'receive_VBP']",-9.71027964,10.9774629
+offer_VB,227,189675,"['offer_VBP', 'offer_VBZ', 'offer_VB', 'offer_VBG', 'offer_VBD', 'offer_VBN']",-9.706621525,10.92570147
+perform_VB,111,91668,"['perform_VBN', 'perform_VBG', 'perform_VB', 'perform_VBZ', 'perform_VBP', 'perform_VBD']",-9.689714711,11.9578341
+form_NN,185,151061,"['form_NNS', 'form_NN']",-9.673390256,11.2208685
+case_NN,336,274112,"['case_NN', 'case_NNS', 'case_NNP']",-9.672088539,10.35993254
+month_NN,164,133147,"['month_NNS', 'month_NN', 'month_NNP']",-9.665108393,11.39469796
+activity_NN,214,172639,"['activity_NN', 'activity_NNS']",-9.655931901,11.01078298
+year_NN,786,631244,"['year_NN', 'year_NNS', 'year_NNP']",-9.649452742,9.133864459
+administration_NN,94,75286,"['administration_NN', 'administration_NNP', 'administration_NNS']",-9.645505138,12.19766111
+term_NN,162,129641,"['term_NNS', 'term_NN']",-9.644312526,11.41239996
+message_NN,91,72796,"['message_NN', 'message_NNS']",-9.643776919,12.24445532
+factor_NN,108,86183,"['factor_NNS', 'factor_NN', 'factor_NNP']",-9.640228196,11.99736246
+risk_NN,120,95071,"['risk_NNS', 'risk_NN']",-9.629827119,11.84535937
+decide_VB,93,73446,"['decide_VB', 'decide_VBG', 'decide_VBN', 'decide_VBD', 'decide_VBP', 'decide_VBZ']",-9.62523749,12.21309115
+medium_NN,113,88931,"['medium_NNS', 'medium_NN', 'medium_NNP']",-9.620219826,11.932071
+early_JJ,138,107693,"['early_JJR', 'early_JJ', 'early_JJS']",-9.608040496,11.6437255
+opportunity_NN,181,140856,"['opportunity_NNS', 'opportunity_NN', 'opportunity_NNP']",-9.604015606,11.25240407
+possible_JJ,175,134409,['possible_JJ'],-9.585059107,11.30103885
+occur_VB,119,91364,"['occur_VBD', 'occur_VBZ', 'occur_VBN', 'occur_VB', 'occur_VBG', 'occur_VBP']",-9.584520431,11.8574322
+several_JJ,199,152377,['several_JJ'],-9.580661011,11.11562534
+political_JJ,131,99143,['political_JJ'],-9.563800292,11.71882696
+benefit_NN,127,96000,"['benefit_NN', 'benefit_NNS']",-9.562062099,11.76356527
+food_NN,139,104910,"['food_NN', 'food_NNS', 'food_NNP']",-9.559851604,11.63330889
+example_NN,235,176508,"['example_NN', 'example_NNS']",-9.552857101,10.87573302
+organization_NN,240,178431,"['organization_NN', 'organization_NNS', 'organization_NNP']",-9.538116165,10.84535937
+private_JJ,107,78944,['private_JJ'],-9.527075014,12.01078298
+prepare_VB,92,67875,"['prepare_VBD', 'prepare_VBN', 'prepare_VB', 'prepare_VBG', 'prepare_VBZ', 'prepare_VBP']",-9.527030716,12.22868801
+history_NN,154,113179,"['history_NN', 'history_NNS']",-9.521460229,11.48546342
+treatment_NN,116,85069,"['treatment_NN', 'treatment_NNS', 'treatment_NNP']",-9.51836488,11.89426897
+public_JJ,248,181476,['public_JJ'],-9.51522293,10.79805365
+area_NN,417,303139,"['area_NNS', 'area_NN', 'area_NNP']",-9.505716373,10.04834639
+suggest_VB,121,87780,"['suggest_VBZ', 'suggest_VBN', 'suggest_VB', 'suggest_VBP', 'suggest_VBG', 'suggest_VBD']",-9.502741412,11.83338672
+additional_JJ,119,85500,['additional_JJ'],-9.488819036,11.8574322
+value_NN,204,145597,"['value_NNS', 'value_NN', 'value_NNP']",-9.479195762,11.07982462
+approach_NN,132,94201,"['approach_NN', 'approach_NNS', 'approach_NNPS']",-9.479060635,11.70785584
+carry_VB,112,79602,"['carry_VBD', 'carry_VB', 'carry_VBN', 'carry_VBP', 'carry_VBG', 'carry_VBZ']",-9.473162136,11.94489504
+level_NN,309,218596,"['level_NNS', 'level_NN']",-9.466444448,10.48078693
+remain_VB,155,109108,"['remain_VB', 'remain_VBZ', 'remain_VBN', 'remain_VBD', 'remain_VBG', 'remain_VBP']",-9.459272956,11.47612556
+industry_NN,170,119340,"['industry_NN', 'industry_NNS']",-9.45532722,11.34285903
+spend_VB,111,77837,"['spend_VBZ', 'spend_VB', 'spend_VBG', 'spend_VBN', 'spend_VBP', 'spend_VBD']",-9.45375262,11.9578341
+art_NN,172,119445,"['art_NN', 'art_NNP', 'art_NNS']",-9.439722183,11.32598521
+develop_VB,337,233600,"['develop_VBP', 'develop_VB', 'develop_VBG', 'develop_VBN', 'develop_VBZ', 'develop_VBD']",-9.437075967,10.35564518
+current_JJ,184,126949,['current_JJ'],-9.430327549,11.22868801
+second_JJ,162,111553,['second_JJ'],-9.427519784,11.41239996
+skill_NN,133,91386,"['skill_NN', 'skill_NNS']",-9.424403111,11.69696753
+expect_VB,151,103038,"['expect_VBP', 'expect_VBN', 'expect_VB', 'expect_VBZ', 'expect_VBD', 'expect_VBG']",-9.414412231,11.51384522
+note_VB,121,82258,"['note_VB', 'note_VBD', 'note_VBZ', 'note_VBP', 'note_VBN', 'note_VBG']",-9.409005137,11.83338672
+result_VB,107,72670,"['result_VBG', 'result_VBP', 'result_VBD', 'result_VB', 'result_VBZ', 'result_VBN']",-9.407605299,12.01078298
+address_VB,118,80001,"['address_VB', 'address_VBG', 'address_VBD', 'address_VBZ', 'address_VBN', 'address_VBP']",-9.405087364,11.86960691
+support_NN,256,172301,"['support_NN', 'support_NNS']",-9.394571549,10.75224996
+quality_NN,188,126228,"['quality_NNS', 'quality_NN', 'quality_NNP']",-9.391083588,11.19766111
+show_VB,286,191890,"['show_VBZ', 'show_VBG', 'show_VBN', 'show_VBD', 'show_VBP', 'show_VB']",-9.390048668,10.59237862
+statement_NN,109,72842,"['statement_NNS', 'statement_NN']",-9.384298589,11.98406564
+government_NN,372,247619,"['government_NN', 'government_NNS', 'government_NNP']",-9.378603681,10.21309115
+knowledge_NN,155,102677,['knowledge_NN'],-9.371629118,11.47612556
+condition_NN,180,118972,"['condition_NNS', 'condition_NN', 'condition_NNPS']",-9.368409454,11.26039687
+directly_RB,88,57890,['directly_RB'],-9.361594917,12.29281834
+effort_NN,195,127988,"['effort_NN', 'effort_NNS']",-9.358318712,11.14491965
+task_NN,99,64838,"['task_NNS', 'task_NN', 'task_NNP']",-9.355195349,12.12289334
+high_JJ,432,282622,"['high_JJ', 'high_JJR', 'high_JJS']",-9.353626745,9.99736246
+manage_VB,107,69602,"['manage_VB', 'manage_VBZ', 'manage_VBN', 'manage_VBP', 'manage_VBG', 'manage_VBD']",-9.345374155,12.01078298
+language_NN,148,96256,"['language_NN', 'language_NNS', 'language_NNPS']",-9.345135486,11.5427966
+company_NN,363,235781,"['company_NNS', 'company_NN', 'company_NNP']",-9.343262202,10.24842422
+meet_VB,222,143345,"['meet_VB', 'meet_VBZ', 'meet_VBD', 'meet_VBN', 'meet_VBG', 'meet_VBP']",-9.334716191,10.9578341
+find_VB,574,370193,"['find_VB', 'find_VBP', 'find_VBN', 'find_VBZ', 'find_VBG', 'find_VBD']",-9.333011163,9.587343035
+together_RB,150,95791,['together_RB'],-9.318783804,11.52343127
+relate_VB,152,96756,"['relate_VBG', 'relate_VBN', 'relate_VBZ', 'relate_VB', 'relate_VBP', 'relate_VBD']",-9.314135994,11.50432245
+low_JJ,198,125856,"['low_JJ', 'low_JJS', 'low_JJR']",-9.312057851,11.12289334
+result_NN,306,193310,"['result_NN', 'result_NNS']",-9.303168902,10.49486212
+nation_NN,131,82238,"['nation_NNS', 'nation_NN', 'nation_NNPS', 'nation_NNP']",-9.294094557,11.71882696
+discussion_NN,118,73951,"['discussion_NN', 'discussion_NNS']",-9.291638986,11.86960691
+professional_JJ,112,70183,['professional_JJ'],-9.291479075,11.94489504
+security_NN,189,118378,"['security_NNP', 'security_NN']",-9.290799038,11.19000754
+achieve_VB,106,66035,"['achieve_VBN', 'achieve_VB', 'achieve_VBG', 'achieve_VBD', 'achieve_VBZ', 'achieve_VBP']",-9.283022812,12.02432951
+support_VB,241,149698,"['support_VBN', 'support_VBP', 'support_VBG', 'support_VB', 'support_VBD', 'support_VBZ']",-9.278806085,10.83936063
+step_NN,109,67144,"['step_NNS', 'step_NN']",-9.266786541,11.98406564
+candidate_NN,125,76845,"['candidate_NNS', 'candidate_NN', 'candidate_NNP', 'candidate_NNPS']",-9.263879487,11.78646568
+allow_VB,341,209592,"['allow_VBG', 'allow_VB', 'allow_VBP', 'allow_VBZ', 'allow_VBN', 'allow_VBD']",-9.263596197,10.33862203
+age_NN,139,85386,"['age_NN', 'age_NNP', 'age_NNPS', 'age_NNS']",-9.26277085,11.63330889
+response_NN,146,89685,"['response_NN', 'response_NNS', 'response_NNP']",-9.262754532,11.5624254
+new_JJ,770,471664,"['new_JJ', 'new_JJR', 'new_JJS']",-9.258685329,9.163535326
+officer_NN,112,68501,"['officer_NN', 'officer_NNS', 'officer_NNP']",-9.256482507,11.94489504
+further_JJ,111,67574,['further_JJ'],-9.24976477,11.9578341
+role_NN,182,109996,"['role_NN', 'role_NNS']",-9.239296895,11.24445532
+hold_VB,235,141899,"['hold_VBN', 'hold_VBD', 'hold_VB', 'hold_VBG', 'hold_VBP', 'hold_VBZ']",-9.23798795,10.87573302
+past_JJ,106,63460,['past_JJ'],-9.225639446,12.02432951
+meeting_NN,160,95308,"['meeting_NNS', 'meeting_NN']",-9.218381601,11.43032187
+lead_VB,261,154550,"['lead_VB', 'lead_VBD', 'lead_VBZ', 'lead_VBN', 'lead_VBG', 'lead_VBP']",-9.209808132,10.72434397
+increase_VB,268,158304,"['increase_VBD', 'increase_VBN', 'increase_VB', 'increase_VBG', 'increase_VBZ', 'increase_VBP']",-9.206248994,10.68616077
+interest_NN,255,149948,"['interest_NN', 'interest_NNS']",-9.199749317,10.75789652
+degree_NN,152,89241,"['degree_NN', 'degree_NNS']",-9.197491546,11.50432245
+produce_VB,182,106837,"['produce_VB', 'produce_VBN', 'produce_VBG', 'produce_VBZ', 'produce_VBD', 'produce_VBP']",-9.197257205,11.24445532
+faculty_NN,186,108667,"['faculty_NN', 'faculty_NNS', 'faculty_NNP']",-9.190395553,11.21309115
+dr._NN,111,64844,['dr._NNP'],-9.190269602,11.9578341
+last_JJ,283,165179,['last_JJ'],-9.189012513,10.60759172
+represent_VB,136,79221,"['represent_VB', 'represent_VBP', 'represent_VBZ', 'represent_VBD', 'represent_VBG', 'represent_VBN']",-9.186132451,11.66478712
+society_NN,157,91243,"['society_NNP', 'society_NN', 'society_NNS']",-9.182805513,11.45762921
+problem_NN,425,246760,"['problem_NNS', 'problem_NN', 'problem_NNP']",-9.181429995,10.02093093
+party_NN,190,109305,"['party_NNP', 'party_NN', 'party_NNS']",-9.168144263,11.18239435
+limit_VB,89,51132,"['limit_VB', 'limit_VBN', 'limit_VBG', 'limit_VBZ', 'limit_VBD']",-9.166205406,12.27651653
+president_NN,244,140132,"['president_NNP', 'president_NN', 'president_NNS']",-9.165689579,10.82151262
+position_NN,210,120512,"['position_NN', 'position_NNS']",-9.164571767,11.03800444
+protect_VB,116,66330,"['protect_VB', 'protect_VBG', 'protect_VBN', 'protect_VBZ', 'protect_VBD']",-9.15939291,11.89426897
+traditional_JJ,88,50016,['traditional_JJ'],-9.150670444,12.29281834
+social_JJ,219,123614,['social_JJ'],-9.140695561,10.9774629
+send_VB,187,105173,"['send_VB', 'send_VBN', 'send_VBP', 'send_VBG', 'send_VBD', 'send_VBZ']",-9.135510398,11.2053555
+week_NN,237,132975,"['week_NN', 'week_NNS', 'week_NNP']",-9.132052262,10.86350671
+teach_VB,110,61683,"['teach_VBD', 'teach_VBN', 'teach_VB', 'teach_VBZ', 'teach_VBG', 'teach_VBP']",-9.1312256,11.97089025
+face_VB,97,54343,"['face_VBN', 'face_VB', 'face_VBP', 'face_VBG', 'face_VBD', 'face_VBZ']",-9.129893749,12.15233712
+safety_NN,116,64706,"['safety_NN', 'safety_NNP']",-9.12363088,11.89426897
+school_NN,634,353360,"['school_NN', 'school_NNS', 'school_NNP']",-9.122440182,9.443910932
+choose_VB,153,84889,"['choose_VBD', 'choose_VBG', 'choose_VBP', 'choose_VB', 'choose_VBN', 'choose_VBZ']",-9.115902157,11.49486212
+enter_VB,128,70704,"['enter_VBG', 'enter_VB', 'enter_VBD', 'enter_VBP', 'enter_VBN', 'enter_VBZ']",-9.109504216,11.75224996
+improve_VB,197,108216,"['improve_VB', 'improve_VBN', 'improve_VBG', 'improve_VBZ', 'improve_VBP', 'improve_VBD']",-9.101502476,11.13019814
+class_NN,255,139661,"['class_NN', 'class_NNS', 'class_NNP']",-9.097216245,10.75789652
+animal_NN,114,62433,"['animal_NN', 'animal_NNS', 'animal_NNP']",-9.097131157,11.91935995
+house_NN,198,108260,"['house_NNP', 'house_NN', 'house_NNS']",-9.094784148,11.12289334
+event_NN,237,129440,"['event_NNS', 'event_NN']",-9.093180738,10.86350671
+city_NN,280,152201,"['city_NN', 'city_NNS', 'city_NNP']",-9.086335295,10.62296694
+participate_VB,113,61151,"['participate_VB', 'participate_VBG', 'participate_VBD', 'participate_VBN', 'participate_VBP']",-9.079909508,11.932071
+buy_VB,95,51294,"['buy_VBG', 'buy_VB', 'buy_VBD', 'buy_VBP', 'buy_VBN']",-9.076646851,12.18239435
+involve_VB,271,146007,"['involve_VBN', 'involve_VBD', 'involve_VBG', 'involve_VBP', 'involve_VB', 'involve_VBZ']",-9.073528971,10.67010092
+change_NN,333,178284,"['change_NNS', 'change_NN', 'change_NNP']",-9.064439342,10.37287159
+ground_NN,111,59320,"['ground_NN', 'ground_NNS', 'ground_NNP']",-9.061815111,11.9578341
+short_JJ,115,61419,"['short_JJ', 'short_JJR']",-9.060907352,11.90675991
+teaching_NN,128,68257,"['teaching_NN', 'teaching_NNP', 'teaching_NNS']",-9.058689387,11.75224996
+america_NN,155,82363,"['america_NNP', 'america_NNPS', 'america_NN']",-9.053584354,11.47612556
+country_NN,399,211253,"['country_NNS', 'country_NN', 'country_NNP']",-9.048367367,10.11200503
+focus_VB,165,87214,"['focus_VBN', 'focus_VBG', 'focus_VB', 'focus_VBP', 'focus_VBD', 'focus_VBZ']",-9.045949907,11.38592775
+run_VB,227,119832,"['run_VB', 'run_VBD', 'run_VBG', 'run_VBN', 'run_VBZ', 'run_VBP']",-9.044105205,10.92570147
+view_NN,170,89484,"['view_NN', 'view_NNS', 'view_NNP']",-9.039951191,11.34285903
+topic_NN,108,56839,"['topic_NNS', 'topic_NN']",-9.03970605,11.99736246
+end_NN,223,117098,"['end_NN', 'end_NNS', 'end_NNP']",-9.03645701,10.95135006
+cause_NN,96,50380,"['cause_NN', 'cause_NNS', 'cause_NNP']",-9.035601001,12.16728746
+drug_NN,157,82374,"['drug_NN', 'drug_NNS']",-9.035280677,11.45762921
+recognize_VB,146,76559,"['recognize_VB', 'recognize_VBG', 'recognize_VBN', 'recognize_VBD', 'recognize_VBZ', 'recognize_VBP']",-9.034459806,11.5624254
+client_NN,123,64374,"['client_NNS', 'client_NN']",-9.03167599,11.80973546
+become_VB,441,229437,"['become_VBN', 'become_VBD', 'become_VBZ', 'become_VBP', 'become_VB', 'become_VBG']",-9.023103694,9.967615116
+win_VB,87,44737,"['win_VB', 'win_VBG', 'win_VBN', 'win_VBD', 'win_VBZ', 'win_VBP']",-9.006237398,12.30930647
+user_NN,288,147963,"['user_NNS', 'user_NN', 'user_NNP']",-9.00495193,10.58232496
+career_NN,128,65750,"['career_NNP', 'career_NN', 'career_NNS']",-9.004703274,11.75224996
+money_NN,177,90895,"['money_NN', 'money_NNS']",-9.004307766,11.28464441
+space_NN,196,100555,"['space_NNS', 'space_NN', 'space_NNP']",-9.00291545,11.13754012
+believe_VB,240,122989,"['believe_VBP', 'believe_VBN', 'believe_VBZ', 'believe_VB', 'believe_VBD', 'believe_VBG']",-9.001279167,10.84535937
+individual_JJ,165,84428,['individual_JJ'],-8.999111704,11.38592775
+continue_VB,337,172342,"['continue_VB', 'continue_VBP', 'continue_VBN', 'continue_VBZ', 'continue_VBG', 'continue_VBD']",-8.998310025,10.35564518
+justice_NN,90,45803,"['justice_NNP', 'justice_NN', 'justice_NNS']",-8.991301378,12.26039687
+image_NN,173,88014,"['image_NN', 'image_NNS']",-8.990817177,11.31762173
+police_NN,108,54831,"['police_NNS', 'police_NN', 'police_NNP']",-8.987816663,11.99736246
+right_NN,366,185587,"['right_NN', 'right_NNS', 'right_NNP', 'right_NNPS']",-8.986036292,10.23655012
+due_JJ,177,89472,['due_JJ'],-8.981543095,11.28464441
+blood_NN,90,45436,['blood_NN'],-8.979695115,12.26039687
+open_VB,106,53240,"['open_VBG', 'open_VBN', 'open_VBZ', 'open_VB', 'open_VBD']",-8.972302496,12.02432951
+complete_JJ,101,50663,['complete_JJ'],-8.970433405,12.09403848
+work_VB,718,359883,"['work_VBZ', 'work_VBP', 'work_VB', 'work_VBG', 'work_VBD', 'work_VBN']",-8.969328395,9.264409928
+war_NN,210,104900,"['war_NN', 'war_NNP', 'war_NNS']",-8.964409635,11.03800444
+book_NN,254,126290,"['book_NNS', 'book_NN', 'book_NNPS']",-8.957696195,10.76356527
+small_JJ,369,183468,"['small_JJ', 'small_JJR', 'small_JJS']",-8.957691922,10.22477296
+concern_VB,109,53865,"['concern_VBN', 'concern_VBG', 'concern_VBZ']",-8.948876208,11.98406564
+action_NN,281,138595,"['action_NNS', 'action_NN', 'action_NNP']",-8.946089365,10.61782364
+selection_NN,124,61046,"['selection_NNS', 'selection_NN', 'selection_NNP']",-8.943412836,11.79805365
+other_JJ,1512,743117,['other_JJ'],-8.940987424,8.190007538
+control_VB,101,49546,"['control_VBG', 'control_VB', 'control_VBN', 'control_VBP', 'control_VBZ', 'control_VBD']",-8.938269486,12.09403848
+issue_NN,497,243677,"['issue_NN', 'issue_NNS']",-8.937508518,9.79514792
+answer_NN,101,49449,"['answer_NNS', 'answer_NN', 'answer_NNP']",-8.935442243,12.09403848
+picture_NN,95,46473,"['picture_NNS', 'picture_NN', 'picture_NNP']",-8.93424955,12.18239435
+white_JJ,90,43787,['white_JJ'],-8.926361892,12.26039687
+encourage_VB,140,67843,"['encourage_VBN', 'encourage_VB', 'encourage_VBP', 'encourage_VBD', 'encourage_VBZ', 'encourage_VBG']",-8.92062933,11.62296694
+church_NN,102,49377,"['church_NN', 'church_NNP', 'church_NNPS', 'church_NNS']",-8.919126223,12.07982462
+color_NN,109,52656,"['color_NNS', 'color_NN', 'color_NNP']",-8.916125986,11.98406564
+object_NN,132,63491,"['object_NN', 'object_NNS', 'object_NNP']",-8.909870361,11.70785584
+bush_NN,91,43236,"['bush_NNP', 'bush_NN']",-8.892150797,12.24445532
+percent_NN,292,138290,['percent_NN'],-8.887512752,10.5624254
+reach_VB,148,69896,"['reach_VBN', 'reach_VBP', 'reach_VB', 'reach_VBD', 'reach_VBG', 'reach_VBZ']",-8.88346891,11.5427966
+such_JJ,969,456483,['such_JJ'],-8.879848752,8.831897106
+environment_NN,213,100324,"['environment_NN', 'environment_NNS']",-8.87959763,11.01754034
+return_VB,152,71530,"['return_VB', 'return_VBN', 'return_VBG', 'return_VBP', 'return_VBD', 'return_VBZ']",-8.878333308,11.50432245
+next_JJ,257,120572,['next_JJ'],-8.87391084,10.74662541
+take_VB,1059,493718,"['take_VB', 'take_VBN', 'take_VBD', 'take_VBG', 'take_VBP', 'take_VBZ']",-8.864840844,8.703763088
+owner_NN,87,40548,"['owner_NNS', 'owner_NN']",-8.86439964,12.30930647
+instance_NN,88,40842,"['instance_NN', 'instance_NNS']",-8.858334276,12.29281834
+work_NN,695,322334,"['work_NNS', 'work_NN', 'work_NNP']",-8.85732768,9.311380794
+understanding_NN,121,56068,"['understanding_NN', 'understanding_NNS']",-8.856026751,11.83338672
+turn_VB,193,89262,"['turn_VBZ', 'turn_VB', 'turn_VBD', 'turn_VBN', 'turn_VBG', 'turn_VBP']",-8.853301474,11.15979292
+culture_NN,133,61471,"['culture_NN', 'culture_NNS']",-8.852335899,11.69696753
+customer_NN,213,98342,"['customer_NNS', 'customer_NN']",-8.850810455,11.01754034
+clear_JJ,159,73259,"['clear_JJ', 'clear_JJR', 'clear_JJS']",-8.847835432,11.43936701
+ago_RB,97,44657,['ago_RB'],-8.846685873,12.15233712
+common_JJ,192,87951,['common_JJ'],-8.83944986,11.16728746
+force_NN,201,92068,"['force_NN', 'force_NNS', 'force_NNP']",-8.839360495,11.10119827
+piece_NN,104,47305,"['piece_NN', 'piece_NNS']",-8.829265342,12.05181024
+fail_VB,140,63584,"['fail_VBN', 'fail_VB', 'fail_VBP', 'fail_VBD', 'fail_VBG', 'fail_VBZ']",-8.82709314,11.62296694
+attend_VB,114,51713,"['attend_VBG', 'attend_VBD', 'attend_VB', 'attend_VBN', 'attend_VBP']",-8.825349367,11.91935995
+mean_VB,273,123579,"['mean_VBN', 'mean_VBZ', 'mean_VBD', 'mean_VBP', 'mean_VB', 'mean_VBG']",-8.822316938,10.65949282
+official_NN,121,54703,"['official_NN', 'official_NNS', 'official_NNP']",-8.820469097,11.83338672
+thus_RB,176,78594,['thus_RB'],-8.80269994,11.29281834
+campus_NN,144,64136,"['campus_NN', 'campus_NNP', 'campus_NNS']",-8.798921757,11.58232496
+group_NN,627,278726,"['group_NN', 'group_NNS', 'group_NNP']",-8.796166427,9.459928329
+death_NN,161,71426,"['death_NN', 'death_NNP', 'death_NNS']",-8.793244831,11.42133308
+american_JJ,256,112789,['american_JJ'],-8.783266847,10.75224996
+decision_NN,267,116962,"['decision_NN', 'decision_NNS']",-8.774984429,10.69155403
+half_NN,92,40232,"['half_NN', 'half_NNS']",-8.772493882,12.22868801
+call_VB,431,188235,"['call_VBD', 'call_VB', 'call_VBN', 'call_VBG', 'call_VBZ', 'call_VBP']",-8.77063132,10.0007059
+black_JJ,107,46656,['black_JJ'],-8.768308018,12.01078298
+open_JJ,163,70925,['open_JJ'],-8.765278471,11.40352181
+professional_NN,93,40190,"['professional_NNS', 'professional_NN', 'professional_NNP']",-8.755390146,12.21309115
+europe_NN,99,42641,['europe_NNP'],-8.750597031,12.12289334
+cut_VB,91,39180,"['cut_VBG', 'cut_VBD', 'cut_VBZ', 'cut_VB', 'cut_VBN']",-8.750035137,12.24445532
+world_NN,576,247454,"['world_NN', 'world_NNP', 'world_NNS']",-8.746875836,9.58232496
+street_NN,116,49744,"['street_NNS', 'street_NN', 'street_NNP', 'street_NNPS']",-8.744253906,11.89426897
+create_VB,442,189276,"['create_VBZ', 'create_VB', 'create_VBN', 'create_VBP', 'create_VBG', 'create_VBD']",-8.742229405,9.964347402
+far_RB,294,125603,"['far_RB', 'far_RBR']",-8.738839053,10.55257762
+as_RB,731,311769,['as_RB'],-8.736390363,9.238522366
+unique_JJ,103,43726,['unique_JJ'],-8.729703231,12.06574943
+team_NN,278,117766,"['team_NN', 'team_NNS', 'team_NNP']",-8.726622483,10.63330889
+wall_NN,93,39191,"['wall_NN', 'wall_NNS', 'wall_NNP']",-8.719075954,12.21309115
+enhance_VB,90,37795,"['enhance_VB', 'enhance_VBG', 'enhance_VBZ', 'enhance_VBN', 'enhance_VBD', 'enhance_VBP']",-8.714054672,12.26039687
+visit_VB,114,47837,"['visit_VB', 'visit_VBD', 'visit_VBG', 'visit_VBN', 'visit_VBP', 'visit_VBZ']",-8.712949282,11.91935995
+few_JJ,377,157861,"['few_JJR', 'few_JJ', 'few_JJS']",-8.709874555,10.19382925
+power_NN,315,131462,"['power_NNS', 'power_NN', 'power_NNP']",-8.705078295,10.45304194
+affect_VB,177,73814,"['affect_VBD', 'affect_VBG', 'affect_VBN', 'affect_VB', 'affect_VBZ', 'affect_VBP']",-8.704001302,11.28464441
+future_NN,141,58709,"['future_NN', 'future_NNS']",-8.70174271,11.61269861
+voice_NN,121,50163,"['voice_NN', 'voice_NNS', 'voice_NNP']",-8.695472773,11.83338672
+die_VB,114,47107,"['die_VB', 'die_VBD', 'die_VBG', 'die_VBZ', 'die_VBP', 'die_VBN']",-8.690763823,11.91935995
+first_JJ,723,298610,['first_JJ'],-8.690051117,9.254398125
+success_NN,136,56156,"['success_NN', 'success_NNS']",-8.689689714,11.66478712
+regard_VB,160,65809,"['regard_VBG', 'regard_VBN', 'regard_VBZ', 'regard_VB', 'regard_VBP', 'regard_VBD']",-8.684069184,11.43032187
+present_JJ,161,65689,['present_JJ'],-8.672447305,11.42133308
+bring_VB,334,135924,"['bring_VB', 'bring_VBD', 'bring_VBN', 'bring_VBZ', 'bring_VBP', 'bring_VBG']",-8.668736396,10.36854567
+judge_NN,104,42297,"['judge_NNS', 'judge_NN', 'judge_NNPS', 'judge_NNP']",-8.667828002,12.05181024
+attention_NN,133,54013,['attention_NN'],-8.665736625,11.69696753
+successful_JJ,139,56307,['successful_JJ'],-8.662085594,11.63330889
+show_NN,128,51789,"['show_NN', 'show_NNS', 'show_NNP']",-8.660358081,11.75224996
+john_NN,120,48494,['john_NNP'],-8.658628042,11.84535937
+wait_VB,103,41252,"['wait_VBG', 'wait_VB', 'wait_VBP', 'wait_VBD', 'wait_VBN', 'wait_VBZ']",-8.645675919,12.06574943
+put_VB,325,129816,"['put_VBN', 'put_VBZ', 'put_VBG', 'put_VBP', 'put_VB', 'put_VBD']",-8.641812775,10.40795405
+hour_NN,298,118788,"['hour_NNS', 'hour_NN']",-8.638861056,10.53308144
+difficult_JJ,167,66392,['difficult_JJ'],-8.635017499,11.36854567
+employer_NN,120,47669,"['employer_NNS', 'employer_NN']",-8.633873145,11.84535937
+committee_NN,291,115412,"['committee_NNP', 'committee_NN', 'committee_NNS']",-8.631558368,10.56737462
+difference_NN,181,71755,"['difference_NNS', 'difference_NN']",-8.630945857,11.25240407
+associate_VB,147,58267,"['associate_VBN', 'associate_VBG', 'associate_VB', 'associate_VBP']",-8.630719067,11.55257762
+drive_VB,143,56645,"['drive_VBN', 'drive_VBG', 'drive_VB', 'drive_VBZ', 'drive_VBP', 'drive_VBD']",-8.629789659,11.59237862
+rise_VB,87,34418,"['rise_VBG', 'rise_VBN', 'rise_VBP', 'rise_VBD', 'rise_VB', 'rise_VBZ']",-8.62793215,12.30930647
+side_NN,226,89218,"['side_NN', 'side_NNS']",-8.624868225,10.932071
+light_NN,128,50230,"['light_NN', 'light_NNP', 'light_NNS']",-8.616261655,11.75224996
+particular_JJ,254,99100,['particular_JJ'],-8.60791275,10.76356527
+board_NN,399,155162,"['board_NN', 'board_NNP', 'board_NNS', 'board_NNPS']",-8.603170815,10.11200503
+subject_NN,132,51183,"['subject_NNS', 'subject_NN', 'subject_NNP']",-8.598982971,11.70785584
+nature_NN,185,71315,"['nature_NN', 'nature_NNP', 'nature_NNS']",-8.590536476,11.2208685
+job_NN,337,129194,"['job_NN', 'job_NNS', 'job_NNP']",-8.582574764,10.35564518
+handle_VB,111,42539,"['handle_VBD', 'handle_VB', 'handle_VBP', 'handle_VBZ', 'handle_VBG', 'handle_VBN']",-8.582082632,11.9578341
+leader_NN,209,80062,"['leader_NNS', 'leader_NN', 'leader_NNP', 'leader_NNPS']",-8.581470903,11.04489083
+community_NN,633,242465,"['community_NN', 'community_NNS', 'community_NNP', 'community_NNPS']",-8.581355293,9.446188272
+author_NN,131,50156,"['author_NN', 'author_NNS']",-8.580711674,11.71882696
+least_JJ,285,109037,['least_JJS'],-8.579640139,10.59743185
+human_JJ,345,131679,['human_JJ'],-8.576213208,10.32179741
+pass_VB,200,76121,"['pass_VBN', 'pass_VB', 'pass_VBG', 'pass_VBP', 'pass_VBZ', 'pass_VBD']",-8.572150704,11.10839377
+stand_VB,145,55142,"['stand_VBG', 'stand_VBP', 'stand_VBZ', 'stand_VBD', 'stand_VB', 'stand_VBN']",-8.570954884,11.57234087
+freedom_NN,110,41683,"['freedom_NN', 'freedom_NNS', 'freedom_NNP']",-8.565811781,11.97089025
+manager_NN,170,64405,"['manager_NN', 'manager_NNS', 'manager_NNP', 'manager_NNPS']",-8.565494138,11.34285903
+accept_VB,171,64705,"['accept_VB', 'accept_VBD', 'accept_VBN', 'accept_VBG', 'accept_VBP', 'accept_VBZ']",-8.563737064,11.33439745
+indicate_VB,218,82487,"['indicate_VBP', 'indicate_VBD', 'indicate_VBZ', 'indicate_VBN', 'indicate_VB', 'indicate_VBG']",-8.563694822,10.98406564
+arrive_VB,91,34413,"['arrive_VBP', 'arrive_VBD', 'arrive_VBN', 'arrive_VB', 'arrive_VBG', 'arrive_VBZ']",-8.562871406,12.24445532
+avoid_VB,132,49653,"['avoid_VBG', 'avoid_VB', 'avoid_VBD', 'avoid_VBN', 'avoid_VBZ', 'avoid_VBP']",-8.555199147,11.70785584
+room_NN,265,99544,"['room_NN', 'room_NNS', 'room_NNP']",-8.55319819,10.70240141
+change_VB,336,125769,"['change_VBN', 'change_VBG', 'change_VBP', 'change_VBD', 'change_VB', 'change_VBZ']",-8.548099417,10.35993254
+discover_VB,100,37425,"['discover_VBG', 'discover_VBZ', 'discover_VBD', 'discover_VBP', 'discover_VBN', 'discover_VB']",-8.547858506,12.10839377
+circumstance_NN,109,40700,"['circumstance_NNS', 'circumstance_NN']",-8.544556849,11.98406564
+will_MD,3496,1291763,['will_MD'],-8.529420503,6.980760492
+story_NN,233,85787,"['story_NN', 'story_NNS', 'story_NNP']",-8.524285276,10.88806382
+reveal_VB,89,32742,"['reveal_VBG', 'reveal_VB', 'reveal_VBD', 'reveal_VBZ', 'reveal_VBN', 'reveal_VBP']",-8.523121398,12.27651653
+member_NN,666,244413,"['member_NNS', 'member_NN', 'member_NNP']",-8.51958313,9.372871595
+useful_JJ,123,45034,['useful_JJ'],-8.5162125,11.80973546
+write_VB,520,190380,"['write_VB', 'write_VBP', 'write_VBG', 'write_VBD', 'write_VBN', 'write_VBZ']",-8.516154588,9.729882149
+rest_NN,97,35479,['rest_NN'],-8.514764884,12.15233712
+play_VB,258,94312,"['play_VB', 'play_VBG', 'play_VBD', 'play_VBZ', 'play_VBP', 'play_VBN']",-8.513926471,10.74102271
+style_NN,99,36132,"['style_NN', 'style_NNS', 'style_NNP']",-8.511632873,12.12289334
+deal_NN,92,33571,"['deal_NN', 'deal_NNS', 'deal_NNP']",-8.511365936,12.22868801
+usually_RB,200,72943,['usually_RB'],-8.510625726,11.10839377
+appropriate_JJ,234,85340,['appropriate_JJ'],-8.510569771,10.88188524
+fact_NN,401,144749,"['fact_NN', 'fact_NNS']",-8.495735429,10.10479154
+town_NN,119,42952,"['town_NN', 'town_NNP', 'town_NNS']",-8.495619926,11.8574322
+consumer_NN,167,60187,"['consumer_NN', 'consumer_NNS', 'consumer_NNP']",-8.493459995,11.36854567
+relationship_NN,239,85989,"['relationship_NNS', 'relationship_NN']",-8.490997689,10.85138315
+bear_VB,111,39589,"['bear_VBG', 'bear_VBN', 'bear_VB', 'bear_VBP', 'bear_VBD', 'bear_VBZ']",-8.478396139,11.9578341
+up_RB,176,62550,['up_RB'],-8.473290645,11.29281834
+couple_NN,104,36901,"['couple_NN', 'couple_NNS']",-8.470932575,12.05181024
+point_NN,451,159886,"['point_NN', 'point_NNS', 'point_NNP']",-8.46970047,9.935266338
+only_RB,1118,395986,['only_RB'],-8.468385427,8.625545489
+car_NN,146,51612,"['car_NN', 'car_NNS']",-8.465594358,11.5624254
+easy_JJ,214,75021,"['easy_JJ', 'easy_JJR', 'easy_JJS']",-8.453539887,11.01078298
+read_VB,284,99387,"['read_VBG', 'read_VB', 'read_VBD', 'read_VBP', 'read_VBN', 'read_VBZ']",-8.451022417,10.60250284
+add_VB,364,127342,"['add_VB', 'add_VBZ', 'add_VBD', 'add_VBG', 'add_VBN', 'add_VBP']",-8.450554162,10.24445532
+learn_VB,440,153381,"['learn_VB', 'learn_VBD', 'learn_VBP', 'learn_VBG', 'learn_VBN', 'learn_VBZ']",-8.445400542,9.970890248
+student_NN,1617,562128,"['student_NNS', 'student_NN', 'student_NNP']",-8.441435189,8.093145998
+memory_NN,132,45809,"['memory_NNS', 'memory_NN']",-8.43894933,11.70785584
+help_NN,122,42292,['help_NN'],-8.437359829,11.82151262
+treat_VB,143,49488,"['treat_VBN', 'treat_VB', 'treat_VBZ', 'treat_VBG', 'treat_VBD', 'treat_VBP']",-8.434919781,11.59237862
+conflict_NN,100,34534,"['conflict_NN', 'conflict_NNS']",-8.431873638,12.10839377
+air_NN,194,66970,"['air_NN', 'air_NNP', 'air_NNS']",-8.431314505,11.15233712
+failure_NN,126,43454,"['failure_NN', 'failure_NNS']",-8.429921441,11.77497004
+worker_NN,220,75740,"['worker_NNS', 'worker_NN', 'worker_NNPS']",-8.427408087,10.97089025
+poor_JJ,131,44964,"['poor_JJ', 'poor_JJR', 'poor_JJS']",-8.423059762,11.71882696
+question_NN,505,172727,"['question_NN', 'question_NNS', 'question_NNP']",-8.417994514,9.772110384
+later_RB,234,79553,"['later_RB', 'later_RBR']",-8.409263997,10.88188524
+partner_NN,139,47140,"['partner_NN', 'partner_NNS', 'partner_NNPS', 'partner_NNP']",-8.405723065,11.63330889
+adult_NN,129,43552,"['adult_NNS', 'adult_NN']",-8.399224096,11.74102271
+%_NN,362,121242,['%_NN'],-8.387684143,10.25240407
+individual_NN,281,94030,"['individual_NNS', 'individual_NN']",-8.386407177,10.61782364
+chance_NN,117,39029,"['chance_NN', 'chance_NNS']",-8.381894159,11.88188524
+keep_VB,446,148050,"['keep_VB', 'keep_VBD', 'keep_VBZ', 'keep_VBN', 'keep_VBG', 'keep_VBP']",-8.374825065,9.951350062
+essential_JJ,114,37794,['essential_JJ'],-8.372979582,11.91935995
+exercise_NN,91,30098,"['exercise_NN', 'exercise_NNS']",-8.369585363,12.24445532
+choice_NN,203,66855,"['choice_NN', 'choice_NNS']",-8.363411924,11.08691404
+long_JJ,311,102373,"['long_JJ', 'long_JJR', 'long_JJS']",-8.362704971,10.47147919
+entire_JJ,157,51648,['entire_JJ'],-8.361804114,11.45762921
+fall_VB,131,43056,"['fall_VBN', 'fall_VB', 'fall_VBG', 'fall_VBZ', 'fall_VBP']",-8.360503674,11.71882696
+extent_NN,97,31842,['extent_NN'],-8.358730492,12.15233712
+therefore_RB,226,74047,['therefore_RB'],-8.355974703,10.932071
+ability_NN,254,82991,"['ability_NN', 'ability_NNS']",-8.351982584,10.76356527
+day_NN,906,295699,"['day_NNS', 'day_NN', 'day_NNP', 'day_NNPS']",-8.350402599,8.928882722
+discuss_VB,273,88090,"['discuss_VBG', 'discuss_VB', 'discuss_VBD', 'discuss_VBN', 'discuss_VBZ', 'discuss_VBP']",-8.333933492,10.65949282
+also_RB,2151,693842,['also_RB'],-8.333455838,7.681458152
+big_JJ,255,81997,"['big_JJ', 'big_JJS', 'big_JJR']",-8.32893007,10.75789652
+back_RB,435,139252,['back_RB'],-8.322466932,9.987378371
+draw_VB,160,51080,"['draw_VBP', 'draw_VBG', 'draw_VBN', 'draw_VB', 'draw_VBD', 'draw_VBZ']",-8.31854281,11.43032187
+fully_RB,124,39572,['fully_RB'],-8.317996051,11.79805365
+matter_NN,293,93442,"['matter_NNS', 'matter_NN', 'matter_NNP']",-8.317026679,10.55749311
+live_VB,351,111056,"['live_VBG', 'live_VB', 'live_VBD', 'live_VBN', 'live_VBZ', 'live_VBP']",-8.305600593,10.29692274
+camera_NN,110,34658,"['camera_NN', 'camera_NNS', 'camera_NNP']",-8.29954107,11.97089025
+see_VB,1060,333272,"['see_VBN', 'see_VB', 'see_VBG', 'see_VBP', 'see_VBZ']",-8.296492039,8.702401412
+comment_NN,143,44860,"['comment_NNS', 'comment_NN']",-8.293270663,11.59237862
+grow_VB,356,111578,"['grow_VBN', 'grow_VBP', 'grow_VBG', 'grow_VBZ', 'grow_VB', 'grow_VBD']",-8.29195964,10.27651653
+gain_VB,123,38336,"['gain_VBG', 'gain_VBN', 'gain_VB', 'gain_VBD', 'gain_VBZ', 'gain_VBP']",-8.283897687,11.80973546
+otherwise_RB,118,36618,['otherwise_RB'],-8.277622326,11.86960691
+movement_NN,169,52214,"['movement_NNP', 'movement_NN', 'movement_NNS']",-8.271269628,11.35137053
+move_VB,366,113002,"['move_VBN', 'move_VBP', 'move_VBG', 'move_VB', 'move_VBD', 'move_VBZ']",-8.270288943,10.23655012
+similar_JJ,242,74709,['similar_JJ'],-8.270131193,10.83338672
+brain_NN,94,28909,"['brain_NN', 'brain_NNPS', 'brain_NNS']",-8.264642233,12.19766111
+stay_VB,151,45969,"['stay_VB', 'stay_VBN', 'stay_VBD', 'stay_VBG', 'stay_VBZ', 'stay_VBP']",-8.249968923,11.51384522
+part_NN,842,256315,"['part_NN', 'part_NNS', 'part_NNP']",-8.249881961,9.034573539
+mr._NN,246,74530,['mr._NNP'],-8.243019134,10.80973546
+staff_NN,430,129987,"['staff_NN', 'staff_NNS', 'staff_NNP']",-8.239814971,10.00405711
+saw_VB,136,41028,['saw_VBD'],-8.236858367,11.66478712
+full_JJ,327,98493,"['full_JJ', 'full_JJS', 'full_JJR']",-8.234586748,10.39910314
+youth_NN,125,37629,"['youth_NN', 'youth_NNP', 'youth_NNS']",-8.233773045,11.78646568
+benefit_VB,87,26049,"['benefit_VBN', 'benefit_VB', 'benefit_VBG', 'benefit_VBD', 'benefit_VBP', 'benefit_VBZ']",-8.225996873,12.30930647
+first_RB,237,70698,['first_RB'],-8.220638533,10.86350671
+past_NN,92,27442,['past_NN'],-8.220536054,12.22868801
+physical_JJ,220,65429,['physical_JJ'],-8.216282887,10.97089025
+cause_VB,323,95904,"['cause_VB', 'cause_VBD', 'cause_VBN', 'cause_VBP', 'cause_VBZ', 'cause_VBG']",-8.213913014,10.41685961
+must_MD,1036,307229,['must_MD'],-8.212146588,8.735441674
+quickly_RB,141,41640,['quickly_RB'],-8.206131096,11.61269861
+special_JJ,350,103348,['special_JJ'],-8.205939832,10.30103885
+contact_NN,218,64202,"['contact_NN', 'contact_NNS']",-8.202146295,10.98406564
+appellant_NN,102,29802,"['appellant_NNS', 'appellant_NN', 'appellant_NNP']",-8.19069619,12.07982462
+family_NN,720,209205,"['family_NN', 'family_NNS', 'family_NNP']",-8.182704711,9.260396865
+reality_NN,106,30084,"['reality_NNS', 'reality_NN']",-8.148788327,12.02432951
+suffer_VB,123,34889,"['suffer_VBG', 'suffer_VBP', 'suffer_VBZ', 'suffer_VBD', 'suffer_VBN', 'suffer_VB']",-8.147970121,11.80973546
+be_VB,42721,12069162,"['be_VBD', 'be_VBP', 'be_VBZ', 'be_VB', 'be_VBG', 'be_VBN']",-8.142164376,3.369592165
+word_NN,369,103898,"['word_NNS', 'word_NN', 'word_NNP']",-8.137331352,10.22477296
+end_VB,170,47599,"['end_VB', 'end_VBN', 'end_VBD', 'end_VBG', 'end_VBP', 'end_VBZ']",-8.129252708,11.34285903
+realize_VB,156,43600,"['realize_VBD', 'realize_VB', 'realize_VBP', 'realize_VBG', 'realize_VBN', 'realize_VBZ']",-8.126638296,11.46684774
+state_VB,204,57000,"['state_VBD', 'state_VB', 'state_VBN', 'state_VBP', 'state_VBG', 'state_VBZ']",-8.126248957,11.07982462
+long_RB,221,61718,['long_RB'],-8.125501132,10.9643474
+artist_NN,146,40712,"['artist_NN', 'artist_NNS', 'artist_NNP']",-8.123341917,11.5624254
+then_RB,1185,329810,['then_RB'],-8.120604273,8.541578618
+hope_VB,108,30030,"['hope_VBP', 'hope_VB']",-8.119229352,11.99736246
+respect_NN,163,45247,"['respect_NN', 'respect_NNS']",-8.116806366,11.40352181
+employee_NN,481,133429,"['employee_NN', 'employee_NNS', 'employee_NNP']",-8.115819652,9.842356878
+respond_VB,160,43924,"['respond_VBZ', 'respond_VB', 'respond_VBP', 'respond_VBN', 'respond_VBD', 'respond_VBG']",-8.100793726,11.43032187
+different_JJ,721,197565,['different_JJ'],-8.098112411,9.258394512
+best_JJ,490,134089,['best_JJS'],-8.096193426,9.815612023
+instead_RB,224,61009,['instead_RB'],-8.089379541,10.94489504
+place_NN,635,172384,"['place_NN', 'place_NNS', 'place_NNP', 'place_NNPS']",-8.084653568,9.44163718
+lie_VB,100,26951,"['lie_VBG', 'lie_VBZ', 'lie_VBD', 'lie_VB', 'lie_VBN', 'lie_VBP']",-8.074194994,12.10839377
+most_RB,887,238052,['most_RBS'],-8.06812693,8.959459667
+today_NN,411,110251,"['today_NN', 'today_NNP']",-8.067437632,10.06925538
+dark_JJ,88,23335,"['dark_JJ', 'dark_JJR', 'dark_JJS']",-8.050776228,12.29281834
+music_NN,323,85095,"['music_NN', 'music_NNP']",-8.04139639,10.41685961
+resident_NN,146,38374,"['resident_NN', 'resident_NNS', 'resident_NNP']",-8.038016976,11.5624254
+more_JJ,1635,428747,['more_JJR'],-8.034692131,8.077175041
+bed_NN,90,23593,"['bed_NN', 'bed_NNS', 'bed_NNP']",-8.034218161,12.26039687
+citizen_NN,158,41317,"['citizen_NN', 'citizen_NNS', 'citizen_NNPS']",-8.030667136,11.44846921
+night_NN,246,64324,"['night_NN', 'night_NNS', 'night_NNP', 'night_NNPS']",-8.030554998,10.80973546
+idea_NN,411,106742,"['idea_NNS', 'idea_NN']",-8.020773839,10.06925538
+old_JJ,465,120601,"['old_JJ', 'old_JJR', 'old_JJS']",-8.018795438,9.891163056
+healthy_JJ,92,23828,['healthy_JJ'],-8.016808288,12.22868801
+happen_VB,289,74811,"['happen_VB', 'happen_VBG', 'happen_VBN', 'happen_VBZ', 'happen_VBP', 'happen_VBD']",-8.016037113,10.57732428
+control_NN,519,134218,"['control_NN', 'control_NNS', 'control_NNP']",-8.014627911,9.732659233
+wife_NN,117,30255,"['wife_NNS', 'wife_NN']",-8.014521245,11.88188524
+game_NN,371,95784,"['game_NN', 'game_NNS', 'game_NNP']",-8.012221688,10.21697459
+truth_NN,114,29379,"['truth_NN', 'truth_NNS', 'truth_NNP']",-8.009607656,11.91935995
+time_NN,2569,661907,"['time_NN', 'time_NNS', 'time_NNP']",-8.009277828,7.425258787
+responsible_JJ,226,57901,['responsible_JJ'],-8.001121682,10.932071
+writer_NN,92,23495,"['writer_NNS', 'writer_NN', 'writer_NNPS']",-7.996504191,12.22868801
+explore_VB,180,45968,"['explore_VB', 'explore_VBN', 'explore_VBP', 'explore_VBG', 'explore_VBZ', 'explore_VBD']",-7.996489181,11.26039687
+go_VB,1567,400053,"['go_VBG', 'go_VB', 'go_VBD', 'go_VBP', 'go_VBN', 'go_VBZ']",-7.996042154,8.138460497
+difficulty_NN,121,30852,"['difficulty_NNS', 'difficulty_NN']",-7.994213158,11.83338672
+trust_NN,103,26139,"['trust_NN', 'trust_NNP', 'trust_NNS']",-7.987415801,12.06574943
+explain_VB,274,69517,"['explain_VBD', 'explain_VBG', 'explain_VBZ', 'explain_VB', 'explain_VBP', 'explain_VBN']",-7.987046121,10.65421788
+hit_VB,93,23565,"['hit_VB', 'hit_VBN', 'hit_VBZ', 'hit_VBG', 'hit_VBD', 'hit_VBP']",-7.98519925,12.21309115
+try_VB,590,149037,"['try_VBG', 'try_VBP', 'try_VB', 'try_VBN', 'try_VBD', 'try_VBZ']",-7.98073987,9.547678817
+however_RB,933,235095,['however_RB'],-7.97715106,8.886516691
+seem_VB,497,124674,"['seem_VB', 'seem_VBP', 'seem_VBZ', 'seem_VBD', 'seem_VBG']",-7.970699064,9.79514792
+character_NN,215,53697,"['character_NN', 'character_NNS', 'character_NNP']",-7.964361018,11.00405711
+sit_VB,180,44871,"['sit_VB', 'sit_VBG', 'sit_VBD', 'sit_VBZ', 'sit_VBP', 'sit_VBN']",-7.96164262,11.26039687
+here_RB,650,161482,['here_RB'],-7.956717927,9.407954054
+film_NN,298,73859,"['film_NN', 'film_NNS', 'film_NNP']",-7.953317589,10.53308144
+especially_RB,325,80509,['especially_RB'],-7.952566541,10.40795405
+energy_NN,317,78509,"['energy_NN', 'energy_NNP', 'energy_NNS']",-7.952231398,10.44391093
+concern_NN,309,76356,"['concern_NNS', 'concern_NN']",-7.948990879,10.48078693
+clearly_RB,184,45340,['clearly_RB'],-7.944934815,11.22868801
+child_NN,1311,322344,"['child_NN', 'child_NNS', 'child_NNP']",-7.941789634,8.395797992
+behavior_NN,251,61453,"['behavior_NNS', 'behavior_NN']",-7.935652267,10.78070641
+trip_NN,154,37680,"['trip_NN', 'trip_NNS']",-7.934724804,11.48546342
+speak_VB,278,67920,"['speak_VB', 'speak_VBG', 'speak_VBN', 'speak_VBD', 'speak_VBP', 'speak_VBZ']",-7.932607766,10.63330889
+indeed_RB,141,34413,['indeed_RB'],-7.931114694,11.61269861
+say_VB,2486,605175,"['say_VBD', 'say_VB', 'say_VBP', 'say_VBG', 'say_VBZ', 'say_VBN']",-7.927382284,7.472639381
+finally_RB,214,52076,['finally_RB'],-7.926864031,11.01078298
+describe_VB,394,95343,"['describe_VB', 'describe_VBG', 'describe_VBD', 'describe_VBN', 'describe_VBZ', 'describe_VBP']",-7.918787581,10.13019814
+colleague_NN,97,23435,"['colleague_NNS', 'colleague_NN']",-7.916464332,12.15233712
+patient_NN,444,107267,"['patient_NNS', 'patient_NN', 'patient_NNPS']",-7.916430917,9.957834095
+god_NN,185,44643,"['god_NNP', 'god_NN', 'god_NNS']",-7.914764898,11.2208685
+report_VB,396,95275,"['report_VBD', 'report_VB', 'report_VBG', 'report_VBP', 'report_VBZ', 'report_VBN']",-7.910453463,10.12289334
+likely_JJ,290,69759,['likely_JJ'],-7.910182649,10.57234087
+boy_NN,125,29978,"['boy_NNS', 'boy_NN', 'boy_NNP', 'boy_NNPS']",-7.905832231,11.78646568
+come_VB,1240,296679,"['come_VBD', 'come_VBG', 'come_VBP', 'come_VB', 'come_VBZ', 'come_VBN']",-7.90241888,8.476125556
+most_JJ,806,192008,['most_JJS'],-7.896170868,9.097613933
+none_NN,95,22585,['none_NN'],-7.893221685,12.18239435
+able_JJ,542,128775,['able_JJ'],-7.892343973,9.67010092
+wind_NN,94,22298,"['wind_NNS', 'wind_NN']",-7.890037843,12.19766111
+once_RB,442,104838,['once_RB'],-7.889899652,9.964347402
+victim_NN,157,37233,"['victim_NN', 'victim_NNS']",-7.889673495,11.45762921
+only_JJ,268,63495,['only_JJ'],-7.888266178,10.68616077
+head_NN,300,71004,"['head_NN', 'head_NNP', 'head_NNS']",-7.88679399,10.52343127
+religious_JJ,154,36431,['religious_JJ'],-7.886092435,11.48546342
+life_NN,1048,245614,"['life_NN', 'life_NNS', 'life_NNP']",-7.87261027,8.71882696
+nurse_NN,166,38695,"['nurse_NNS', 'nurse_NN', 'nurse_NNP']",-7.864820108,11.37721053
+duty_NN,196,45515,"['duty_NN', 'duty_NNS']",-7.859344616,11.13754012
+guest_NN,90,20840,"['guest_NNS', 'guest_NN']",-7.855214561,12.26039687
+can_MD,4390,1016448,['can_MD'],-7.855099756,6.652244737
+give_VB,1579,365529,"['give_VB', 'give_VBG', 'give_VBD', 'give_VBZ', 'give_VBN', 'give_VBP']",-7.854830888,8.127454506
+look_VB,885,204452,"['look_VBZ', 'look_VBP', 'look_VB', 'look_VBD', 'look_VBG', 'look_VBN']",-7.851869005,8.962716317
+son_NN,126,29078,"['son_NNS', 'son_NN']",-7.850360499,11.77497004
+simply_RB,272,62712,['simply_RB'],-7.848991069,10.66478712
+situation_NN,336,77364,"['situation_NN', 'situation_NNS']",-7.847057346,10.35993254
+already_RB,410,94039,['already_RB'],-7.841491478,10.07276986
+american_NN,320,73165,"['american_NNPS', 'american_NNP', 'american_NNS']",-7.836937955,10.43032187
+reflect_VB,226,51672,"['reflect_VB', 'reflect_VBP', 'reflect_VBD', 'reflect_VBZ', 'reflect_VBN', 'reflect_VBG']",-7.836916142,10.932071
+contribute_VB,211,48207,"['contribute_VB', 'contribute_VBP', 'contribute_VBG', 'contribute_VBN', 'contribute_VBD', 'contribute_VBZ']",-7.835855842,11.03115077
+foot_NN,221,50409,"['foot_NNS', 'foot_NN', 'foot_NNP']",-7.833491155,10.9643474
+natural_JJ,283,64475,['natural_JJ'],-7.831794005,10.60759172
+peace_NN,169,38490,"['peace_NN', 'peace_NNP']",-7.831316614,11.35137053
+general_JJ,468,106538,['general_JJ'],-7.830643858,9.881885242
+challenge_VB,90,20451,"['challenge_VBD', 'challenge_VBN', 'challenge_VBG', 'challenge_VBP', 'challenge_VBZ', 'challenge_VB']",-7.828030672,12.26039687
+symptom_NN,115,26100,"['symptom_NNS', 'symptom_NN']",-7.826272135,11.90675991
+particularly_RB,282,63926,['particularly_RB'],-7.824563851,10.61269861
+movie_NN,139,31331,"['movie_NN', 'movie_NNS']",-7.816362124,11.63330889
+men_NN,375,84503,"['men_NNS', 'men_NN', 'men_NNP']",-7.815968155,10.20150318
+majority_NN,179,40002,"['majority_NN', 'majority_NNP', 'majority_NNS']",-7.803968735,11.26843418
+suppose_VB,97,21591,"['suppose_VBN', 'suppose_VBG', 'suppose_VB', 'suppose_VBP', 'suppose_VBD']",-7.798229602,12.15233712
+deal_VB,236,52332,"['deal_VB', 'deal_VBN', 'deal_VBG', 'deal_VBZ', 'deal_VBD', 'deal_VBP']",-7.792762726,10.86960691
+strength_NN,145,32120,"['strength_NN', 'strength_NNS', 'strength_NNP']",-7.791275182,11.57234087
+enjoy_VB,210,46202,"['enjoy_VBP', 'enjoy_VB', 'enjoy_VBD', 'enjoy_VBG', 'enjoy_VBN', 'enjoy_VBZ']",-7.781422167,11.03800444
+stop_VB,244,53625,"['stop_VBG', 'stop_VB', 'stop_VBP', 'stop_VBD', 'stop_VBZ', 'stop_VBN']",-7.779880785,10.82151262
+not_RB,7277,1598943,['not_RB'],-7.779558984,5.923121866
+doctor_NN,153,33562,"['doctor_NNP', 'doctor_NNS', 'doctor_NN']",-7.777153227,11.49486212
+reason_NN,480,105217,"['reason_NN', 'reason_NNS']",-7.7761177,9.845359366
+eat_VB,171,37450,"['eat_VB', 'eat_VBG', 'eat_VBP', 'eat_VBD', 'eat_VBN', 'eat_VBZ']",-7.774825583,11.33439745
+sound_NN,119,25934,"['sound_NN', 'sound_NNS']",-7.767739358,11.8574322
+drop_VB,119,25833,"['drop_VB', 'drop_VBG', 'drop_VBN', 'drop_VBD', 'drop_VBP']",-7.76210981,11.8574322
+arm_NN,132,28627,"['arm_NNS', 'arm_NN']",-7.76069475,11.70785584
+connection_NN,236,51162,"['connection_NN', 'connection_NNS']",-7.760141993,10.86960691
+beautiful_JJ,101,21883,['beautiful_JJ'],-7.759311431,12.09403848
+tell_VB,688,148686,"['tell_VBP', 'tell_VBZ', 'tell_VB', 'tell_VBD', 'tell_VBN', 'tell_VBG']",-7.755644532,9.325985207
+like_VB,333,71707,"['like_VBP', 'like_VB', 'like_VBN', 'like_VBD', 'like_VBZ', 'like_VBG']",-7.750447973,10.37287159
+impact_NN,340,72960,"['impact_NN', 'impact_NNS']",-7.745427173,10.34285903
+guy_NN,97,20812,"['guy_NN', 'guy_NNS', 'guy_NNP', 'guy_NNPS']",-7.74521515,12.15233712
+dry_JJ,92,19708,"['dry_JJ', 'dry_JJR']",-7.7429318,12.22868801
+rather_RB,475,101688,['rather_RB'],-7.742006211,9.860466259
+wave_NN,98,20932,"['wave_NNS', 'wave_NN', 'wave_NNP']",-7.738712699,12.13754012
+accompany_VB,96,20418,"['accompany_VBN', 'accompany_VBZ', 'accompany_VB', 'accompany_VBP', 'accompany_VBG', 'accompany_VBD']",-7.732591436,12.16728746
+minute_NN,280,59537,"['minute_NNS', 'minute_NN']",-7.73221589,10.62296694
+capable_JJ,89,18865,['capable_JJ'],-7.727691049,12.27651653
+aware_JJ,154,32563,['aware_JJ'],-7.724159459,11.48546342
+have_VB,15867,3353548,"['have_VBP', 'have_VBZ', 'have_VBD', 'have_VB', 'have_VBN', 'have_VBG']",-7.72351506,4.798508201
+teacher_NN,540,113813,"['teacher_NNS', 'teacher_NN', 'teacher_NNPS']",-7.719490233,9.675434365
+force_VB,154,32407,"['force_VBN', 'force_VBD', 'force_VBG', 'force_VB', 'force_VBP']",-7.717231312,11.48546342
+experience_NN,809,170151,"['experience_NNS', 'experience_NN']",-7.716460212,9.092254069
+friend_NN,366,76913,"['friend_NNS', 'friend_NN', 'friend_NNP', 'friend_NNPS']",-7.715240007,10.23655012
+influence_NN,168,35092,"['influence_NN', 'influence_NNS']",-7.70653713,11.35993254
+ask_VB,700,146084,"['ask_VBD', 'ask_VB', 'ask_VBN', 'ask_VBG', 'ask_VBZ', 'ask_VBP']",-7.705227537,9.30103885
+generally_RB,270,56288,['generally_RB'],-7.70372417,10.67543436
+increasingly_RB,121,25199,['increasingly_RB'],-7.702215625,11.83338672
+father_NN,222,46059,"['father_NNS', 'father_NN', 'father_NNP']",-7.696779602,10.9578341
+minority_NN,112,23236,"['minority_NN', 'minority_NNS', 'minority_NNP']",-7.696719192,11.94489504
+responsibility_NN,347,71911,"['responsibility_NN', 'responsibility_NNS']",-7.695132999,10.31345811
+tend_VB,159,32679,"['tend_VBP', 'tend_VB', 'tend_VBD', 'tend_VBN', 'tend_VBG', 'tend_VBZ']",-7.683193261,11.43936701
+lack_NN,194,39830,['lack_NN'],-7.681655017,11.15233712
+fairly_RB,98,20014,['fairly_RB'],-7.674012069,12.13754012
+much_JJ,597,120610,['much_JJ'],-7.658402882,9.53066284
+eye_NN,269,54326,"['eye_NNS', 'eye_NN', 'eye_NNP']",-7.657892843,10.6807876
+wear_VB,113,22599,"['wear_VB', 'wear_VBD', 'wear_VBG', 'wear_VBP', 'wear_VBZ']",-7.643792352,11.932071
+expression_NN,142,28357,"['expression_NNS', 'expression_NN']",-7.641670172,11.60250284
+clean_JJ,96,19110,"['clean_JJR', 'clean_JJ']",-7.637077657,12.16728746
+face_NN,202,40172,"['face_NN', 'face_NNS', 'face_NNP']",-7.635691186,11.09403848
+act_VB,243,48131,"['act_VBG', 'act_VB', 'act_VBD', 'act_VBZ', 'act_VBP', 'act_VBN']",-7.629866274,10.82743746
+daughter_NN,111,21908,"['daughter_NNS', 'daughter_NN']",-7.624754299,11.9578341
+want_VB,1177,231390,"['want_VBZ', 'want_VB', 'want_VBP', 'want_VBD', 'want_VBG', 'want_VBN']",-7.619068386,8.551351357
+opinion_NN,221,43204,"['opinion_NN', 'opinion_NNS']",-7.610974709,10.9643474
+approach_VB,93,18161,"['approach_VBG', 'approach_VB', 'approach_VBD', 'approach_VBP', 'approach_VBZ']",-7.609397212,12.21309115
+else_RB,194,37607,['else_RB'],-7.598800761,11.15233712
+let_VB,445,86195,"['let_VB', 'let_VBG', 'let_VBZ', 'let_VBP', 'let_VBD', 'let_VBN']",-7.597655038,9.954588436
+young_JJ,514,99128,"['young_JJ', 'young_JJR', 'young_JJS']",-7.591380453,9.746625413
+person_NN,825,158940,"['person_NN', 'person_NNS', 'person_NNPS']",-7.589872415,9.063999653
+lot_NN,486,93622,"['lot_NN', 'lot_NNS']",-7.589747461,9.827437458
+sexual_JJ,147,28199,['sexual_JJ'],-7.583684037,11.55257762
+girl_NN,214,41046,"['girl_NNS', 'girl_NN', 'girl_NNP', 'girl_NNPS']",-7.583487029,11.01078298
+need_VB,1569,299216,"['need_VBP', 'need_VBD', 'need_VBZ', 'need_VB', 'need_VBN', 'need_VBG']",-7.57519816,8.136620325
+hear_VB,394,74988,"['hear_VB', 'hear_VBN', 'hear_VBP', 'hear_VBG', 'hear_VBZ', 'hear_VBD']",-7.572320306,10.13019814
+capture_VB,113,21372,"['capture_VBN', 'capture_VBP', 'capture_VBG', 'capture_VB', 'capture_VBD', 'capture_VBZ']",-7.563255339,11.932071
+even_RB,1507,284686,['even_RB'],-7.56154832,8.19478626
+now_RB,1460,275604,['now_RB'],-7.560484648,8.240497308
+effect_NN,714,134609,"['effect_NNS', 'effect_NN', 'effect_NNPS']",-7.558635083,9.272469698
+think_VB,1315,247458,"['think_VBP', 'think_VB', 'think_VBD', 'think_VBG', 'think_VBZ', 'think_VBN']",-7.555977074,8.391402878
+one_NN,380,71377,"['one_NN', 'one_NNS']",-7.553316037,10.18239435
+hair_NN,92,17172,"['hair_NN', 'hair_NNS']",-7.544208501,12.22868801
+soon_RB,255,47561,['soon_RB'],-7.543137992,10.75789652
+reaction_NN,130,24233,"['reaction_NNS', 'reaction_NN']",-7.542317585,11.72988215
+thing_NN,991,184672,"['thing_NNS', 'thing_NN', 'thing_NNP']",-7.541864368,8.799508715
+hope_NN,149,27620,"['hope_NN', 'hope_NNS', 'hope_NNP']",-7.534257179,11.53308144
+man_NN,506,93517,"['man_NN', 'man_NNP']",-7.529947454,9.769256387
+husband_NN,126,23251,"['husband_NNS', 'husband_NN']",-7.527725222,11.77497004
+woman_NN,1167,214699,"['woman_NNS', 'woman_NN', 'woman_NNP']",-7.5233671,8.563661116
+down_RB,241,44260,['down_RB'],-7.520826494,10.83936063
+hard_JJ,357,65545,"['hard_JJR', 'hard_JJ', 'hard_JJS']",-7.520417846,10.2724697
+hand_NN,535,98125,"['hand_NN', 'hand_NNS', 'hand_NNP']",-7.518938047,9.68885488
+probably_RB,321,58340,['probably_RB'],-7.505768279,10.42582047
+important_JJ,1018,185000,['important_JJ'],-7.505643899,8.760728116
+doubt_NN,110,19981,"['doubt_NN', 'doubt_NNS']",-7.504981454,11.97089025
+fine_JJ,159,28719,"['fine_JJ', 'fine_JJR', 'fine_JJS']",-7.496834939,11.43936701
+whole_JJ,293,52919,['whole_JJ'],-7.496741325,10.55749311
+morning_NN,195,35039,"['morning_NN', 'morning_NNS']",-7.489343667,11.14491965
+many_JJ,2278,408899,['many_JJ'],-7.487832977,7.59869793
+miss_VB,179,32129,"['miss_VB', 'miss_VBD', 'miss_VBN', 'miss_VBG', 'miss_VBP', 'miss_VBZ']",-7.487772681,11.26843418
+reader_NN,152,27173,"['reader_NN', 'reader_NNS']",-7.481958719,11.50432245
+admit_VB,156,27862,"['admit_VB', 'admit_VBP', 'admit_VBN', 'admit_VBG', 'admit_VBZ', 'admit_VBD']",-7.480608982,11.46684774
+ignore_VB,117,20882,"['ignore_VB', 'ignore_VBD', 'ignore_VBN', 'ignore_VBG', 'ignore_VBZ', 'ignore_VBP']",-7.479607554,11.88188524
+understand_VB,615,109640,"['understand_VB', 'understand_VBZ', 'understand_VBP', 'understand_VBD', 'understand_VBN', 'understand_VBG']",-7.477972107,9.487807362
+personal_JJ,518,92242,['personal_JJ'],-7.476327886,9.735441674
+there_RB,560,99260,['there_RB'],-7.469641817,9.622966945
+less_JJ,537,95158,['less_JJR'],-7.469259052,9.683471684
+before_RB,117,20666,['before_RB'],-7.464606835,11.88188524
+pull_VB,135,23813,"['pull_VBN', 'pull_VB', 'pull_VBD', 'pull_VBG', 'pull_VBP', 'pull_VBZ']",-7.462646168,11.67543436
+'s_VB,2170,382576,"[""'s_VBZ""]",-7.46190752,7.668770634
+overall_JJ,216,37901,['overall_JJ'],-7.455060791,10.99736246
+hide_VB,89,15572,"['hide_VBG', 'hide_VBN', 'hide_VB', 'hide_VBZ', 'hide_VBD', 'hide_VBP']",-7.450933198,12.27651653
+well_RB,2050,358664,"['well_RB', 'well_RBR']",-7.450865226,7.750841767
+necessary_JJ,529,92529,['necessary_JJ'],-7.450494067,9.70512605
+kind_NN,498,86770,"['kind_NN', 'kind_NNS', 'kind_NNP']",-7.444906777,9.79224803
+connect_VB,235,40923,"['connect_VBN', 'connect_VB', 'connect_VBZ', 'connect_VBG', 'connect_VBD', 'connect_VBP']",-7.444107344,10.87573302
+audience_NN,205,35630,"['audience_NN', 'audience_NNS']",-7.441324764,11.07276986
+know_VB,1983,344123,"['know_VB', 'know_VBG', 'know_VBP', 'know_VBZ', 'know_VBN', 'know_VBD']",-7.439095832,7.798781
+away_RB,433,75129,['away_RB'],-7.438859064,9.994026747
+own_JJ,1077,186703,['own_JJ'],-7.437583049,8.679447427
+album_NN,95,16412,"['album_NN', 'album_NNS']",-7.432607831,12.18239435
+spirit_NN,159,27329,"['spirit_NN', 'spirit_NNS', 'spirit_NNP']",-7.425262095,11.43936701
+player_NN,240,41184,"['player_NNS', 'player_NN', 'player_NNP', 'player_NNPS']",-7.422905743,10.84535937
+atmosphere_NN,100,17136,"['atmosphere_NN', 'atmosphere_NNP', 'atmosphere_NNS']",-7.420886575,12.10839377
+breast_NN,100,17027,"['breast_NNS', 'breast_NN']",-7.411680458,12.10839377
+may_MD,3295,560505,['may_MD'],-7.410304967,7.066187212
+immediately_RB,220,37403,['immediately_RB'],-7.409506656,10.97089025
+attitude_NN,142,24122,"['attitude_NN', 'attitude_NNS']",-7.408314789,11.60250284
+close_RB,95,15951,['close_RB'],-7.391503643,12.18239435
+certainly_RB,200,33563,['certainly_RB'],-7.390727865,11.10839377
+certain_JJ,514,85945,['certain_JJ'],-7.385501541,9.746625413
+weight_NN,194,32374,"['weight_NN', 'weight_NNS', 'weight_NNP']",-7.382635167,11.15233712
+song_NN,171,28398,"['song_NNS', 'song_NN']",-7.375649193,11.33439745
+true_JJ,357,59226,"['true_JJ', 'true_JJR', 'true_JJS']",-7.374162768,10.2724697
+belief_NN,147,24273,"['belief_NNS', 'belief_NN']",-7.367392463,11.55257762
+same_JJ,1389,227192,['same_JJ'],-7.353721625,8.312419078
+anyone_NN,279,45556,['anyone_NN'],-7.351232146,10.62812865
+great_JJ,1313,213397,"['great_JJ', 'great_JJS', 'great_JJR']",-7.344529168,8.393598761
+would_MD,4048,653954,['would_MD'],-7.335836058,6.769256387
+sleep_VB,102,16450,"['sleep_VB', 'sleep_VBG', 'sleep_VBD', 'sleep_VBN', 'sleep_VBZ', 'sleep_VBP']",-7.333374622,12.07982462
+depth_NN,119,19051,"['depth_NN', 'depth_NNS']",-7.322761344,11.8574322
+folk_NN,99,15799,"['folk_NNS', 'folk_NN']",-7.318189005,12.12289334
+perhaps_RB,351,55953,['perhaps_RB'],-7.316600645,10.29692274
+help_VB,1569,248775,"['help_VB', 'help_VBZ', 'help_VBG', 'help_VBN', 'help_VBP', 'help_VBD']",-7.30885235,8.136620325
+watch_VB,227,35496,"['watch_VBG', 'watch_VBD', 'watch_VBP', 'watch_VBN', 'watch_VB', 'watch_VBZ']",-7.288820351,10.92570147
+yet_RB,541,84312,['yet_RB'],-7.283965578,9.672765178
+wrong_JJ,208,32378,['wrong_JJ'],-7.282286534,11.05181024
+fresh_JJ,111,17271,"['fresh_JJ', 'fresh_JJR']",-7.281648131,11.9578341
+push_VB,150,23199,"['push_VBD', 'push_VB', 'push_VBN', 'push_VBP', 'push_VBG', 'push_VBZ']",-7.272956308,11.52343127
+communicate_VB,167,25782,"['communicate_VB', 'communicate_VBN', 'communicate_VBG', 'communicate_VBP', 'communicate_VBZ', 'communicate_VBD']",-7.27037227,11.36854567
+everything_NN,308,47253,"['everything_NN', 'everything_NNP']",-7.261331765,10.48546342
+right_JJ,340,52106,['right_JJ'],-7.259770952,10.34285903
+little_RB,87,13332,['little_RB'],-7.259662106,12.30930647
+listen_VB,191,28944,"['listen_VB', 'listen_VBN', 'listen_VBP', 'listen_VBG', 'listen_VBD', 'listen_VBZ']",-7.243547865,11.17482113
+notice_VB,136,20384,"['notice_VBN', 'notice_VB', 'notice_VBP', 'notice_VBG', 'notice_VBD']",-7.227686721,11.66478712
+care_VB,169,25231,"['care_VB', 'care_VBG', 'care_VBN', 'care_VBZ', 'care_VBD', 'care_VBP']",-7.22203033,11.35137053
+should_MD,2879,429613,['should_MD'],-7.221326051,7.260897888
+real_JJ,570,84729,"['real_JJ', 'real_JJR']",-7.215750112,9.597431853
+wo_MD,169,25043,['wo_MD'],-7.211240342,11.35137053
+close_JJ,273,40339,"['close_JJ', 'close_JJR', 'close_JJS']",-7.207130559,10.65949282
+burn_VB,104,15358,"['burn_VBG', 'burn_VBP', 'burn_VBN', 'burn_VBD', 'burn_VB', 'burn_VBZ']",-7.206263014,12.05181024
+again_RB,673,98799,['again_RB'],-7.197746124,9.357787267
+best_RB,88,12866,"['best_RB', 'best_RBS']",-7.191844355,12.29281834
+actually_RB,455,66434,['actually_RB'],-7.189911426,9.922527227
+less_RB,301,43852,['less_RBR'],-7.186735345,10.51863028
+inspire_VB,91,13231,"['inspire_VBD', 'inspire_VBN', 'inspire_VBP', 'inspire_VB', 'inspire_VBZ']",-7.183839844,12.24445532
+'ll_MD,504,72720,"[""'ll_MD""]",-7.172784656,9.774970038
+mental_JJ,202,29140,['mental_JJ'],-7.172501774,11.09403848
+light_JJ,223,32032,"['light_JJR', 'light_JJ', 'light_JJS']",-7.166326359,10.95135006
+baby_NN,228,32560,"['baby_NN', 'baby_NNS', 'baby_NNP']",-7.157923065,10.91935995
+entitle_VB,128,18262,"['entitle_VBN', 'entitle_VBD']",-7.156557153,11.75224996
+exactly_RB,173,24624,['exactly_RB'],-7.153149289,11.31762173
+talk_VB,485,68733,"['talk_VBG', 'talk_VBD', 'talk_VB', 'talk_VBN', 'talk_VBP', 'talk_VBZ']",-7.146874373,9.830409025
+worth_JJ,129,18263,['worth_JJ'],-7.145408895,11.74102271
+get_VB,2791,394397,"['get_VBG', 'get_VBN', 'get_VBP', 'get_VB', 'get_VBD', 'get_VBZ']",-7.142722643,7.305683553
+moral_JJ,141,19920,['moral_JJ'],-7.142378675,11.61269861
+powerful_JJ,211,29710,['powerful_JJ'],-7.137561796,11.03115077
+exclude_VB,101,14212,"['exclude_VBN', 'exclude_VBG', 'exclude_VB']",-7.136610491,12.09403848
+lose_VB,530,74260,"['lose_VBN', 'lose_VBD', 'lose_VB', 'lose_VBG', 'lose_VBZ', 'lose_VBP']",-7.130449145,9.702401412
+apparently_RB,126,17642,['apparently_RB'],-7.129446579,11.77497004
+normal_JJ,305,42610,['normal_JJ'],-7.126238999,10.49958453
+thinking_NN,111,15373,"['thinking_NN', 'thinking_NNP']",-7.113695244,11.9578341
+walk_VB,311,43044,"['walk_VB', 'walk_VBG', 'walk_VBP', 'walk_VBZ', 'walk_VBD', 'walk_VBN']",-7.112753761,10.47147919
+mouth_NN,99,13702,"['mouth_NN', 'mouth_NNP', 'mouth_NNS']",-7.11274225,12.12289334
+sure_JJ,490,67602,"['sure_JJ', 'sure_JJR', 'sure_JJS']",-7.10814037,9.815612023
+welcome_VB,117,16064,"['welcome_VBN', 'welcome_VBG', 'welcome_VBD', 'welcome_VBP', 'welcome_VB', 'welcome_VBZ']",-7.101178834,11.88188524
+ownership_NN,98,13374,['ownership_NN'],-7.092433558,12.13754012
+nothing_NN,431,58715,['nothing_NN'],-7.089897438,10.0007059
+stick_VB,96,13050,"['stick_VBD', 'stick_VBP', 'stick_VBN', 'stick_VB', 'stick_VBG', 'stick_VBZ']",-7.086799686,12.16728746
+parent_NN,729,99075,"['parent_NNS', 'parent_NN', 'parent_NNP']",-7.086458437,9.242474957
+heart_NN,434,58878,"['heart_NN', 'heart_NNS', 'heart_NNP', 'heart_NNPS']",-7.083889813,9.990698729
+maybe_RB,203,27391,['maybe_RB'],-7.0760784,11.08691404
+about_RB,346,46641,['about_RB'],-7.074682873,10.31762173
+wonder_VB,140,18666,"['wonder_VBP', 'wonder_VBG', 'wonder_VBN', 'wonder_VBD', 'wonder_VB', 'wonder_VBZ']",-7.058842163,11.62296694
+kid_NN,276,36777,"['kid_NNS', 'kid_NN', 'kid_NNP']",-7.057991723,10.6437255
+start_VB,1029,136997,"['start_VBD', 'start_VBP', 'start_VB', 'start_VBG', 'start_VBZ', 'start_VBN']",-7.056757509,8.745222695
+appreciate_VB,143,19035,"['appreciate_VBN', 'appreciate_VBD', 'appreciate_VBP', 'appreciate_VB', 'appreciate_VBZ', 'appreciate_VBG']",-7.056495613,11.59237862
+being_NN,109,14488,"['being_NNS', 'being_NN']",-7.054386506,11.98406564
+just_RB,2225,295583,['just_RB'],-7.053614151,7.632660341
+comment_VB,91,12067,"['comment_VB', 'comment_VBN', 'comment_VBD', 'comment_VBG', 'comment_VBZ', 'comment_VBP']",-7.050984789,12.24445532
+sort_NN,256,33936,"['sort_NN', 'sort_NNS']",-7.050528906,10.75224996
+share_VB,555,72713,"['share_VBP', 'share_VBG', 'share_VB', 'share_VBN', 'share_VBZ', 'share_VBD']",-7.033581738,9.635906
+often_RB,1097,142647,['often_RB'],-7.02274207,8.652902151
+loss_NN,447,57790,"['loss_NN', 'loss_NNS']",-7.014401228,9.948118941
+much_RB,900,116288,['much_RB'],-7.013561513,8.938468771
+confidence_NN,149,19187,"['confidence_NN', 'confidence_NNS']",-7.008673014,11.53308144
+hot_JJ,186,23908,"['hot_JJ', 'hot_JJS']",-7.006047016,11.21309115
+solid_JJ,145,18633,['solid_JJ'],-7.005663263,11.57234087
+might_MD,1160,148989,['might_MD'],-7.004937203,8.572340872
+around_RB,99,12700,['around_RB'],-7.003184256,12.12289334
+way_NN,2600,331260,"['way_NN', 'way_NNS', 'way_NNP']",-6.993308573,7.407954054
+remember_VB,388,49133,"['remember_VBP', 'remember_VB', 'remember_VBZ', 'remember_VBN', 'remember_VBD', 'remember_VBG']",-6.984491868,10.15233712
+people_NN,3646,461112,"['people_NNS', 'people_NNPS']",-6.982658839,6.920151116
+ever_RB,534,67276,['ever_RB'],-6.977108378,9.69155403
+longer_RB,311,38933,"['longer_RBR', 'longer_RB']",-6.967935126,10.47147919
+so_RB,3273,406888,['so_RB'],-6.95787432,7.075852075
+home_NN,1297,161002,"['home_NN', 'home_NNS', 'home_NNP', 'home_NNPS']",-6.95575632,8.411287197
+heavy_JJ,194,23971,"['heavy_JJ', 'heavy_JJR', 'heavy_JJS']",-6.949089633,11.15233712
+enough_RB,425,52376,['enough_RB'],-6.945299233,10.02093093
+obligation_NN,194,23818,"['obligation_NNS', 'obligation_NN']",-6.939851812,11.15233712
+mind_NN,555,67930,"['mind_NN', 'mind_NNS', 'mind_NNP']",-6.935417272,9.635906
+more_RB,3148,383339,['more_RBR'],-6.928041431,7.132030136
+stress_NN,162,19687,['stress_NN'],-6.92510566,11.41239996
+no_RB,337,40725,['no_RB'],-6.917022297,10.35564518
+leave_VB,1220,147393,"['leave_VB', 'leave_VBN', 'leave_VBG', 'leave_VBD', 'leave_VBP', 'leave_VBZ']",-6.916643051,8.499584529
+lack_VB,165,19906,"['lack_VBZ', 'lack_VBG', 'lack_VBD', 'lack_VBP', 'lack_VB', 'lack_VBN']",-6.914593514,11.38592775
+do_VB,10514,1263734,"['do_VBP', 'do_VBD', 'do_VBZ', 'do_VBG', 'do_VB', 'do_VBN']",-6.909237376,5.392225942
+almost_RB,606,72588,['almost_RB'],-6.904269463,9.509075978
+begin_VB,1367,163689,"['begin_VBN', 'begin_VBP', 'begin_VBG', 'begin_VBD', 'begin_VB', 'begin_VBZ']",-6.903800322,8.335452434
+others_NN,991,118588,['others_NNS'],-6.902857257,8.799508715
+taste_NN,92,10719,"['taste_NN', 'taste_NNS']",-6.864320743,12.22868801
+overcome_VB,118,13715,"['overcome_VB', 'overcome_VBN', 'overcome_VBZ', 'overcome_VBG', 'overcome_VBD', 'overcome_VBP']",-6.860823952,11.86960691
+extremely_RB,236,27352,['extremely_RB'],-6.856715658,10.86960691
+while_NN,100,11563,['while_NN'],-6.853371941,12.10839377
+respect_VB,108,12471,"['respect_VBN', 'respect_VBP', 'respect_VBG', 'respect_VB', 'respect_VBZ', 'respect_VBD']",-6.851402031,11.99736246
+mother_NN,529,60852,"['mother_NN', 'mother_NNS', 'mother_NNP']",-6.845893148,9.70512605
+imagine_VB,175,19965,"['imagine_VB', 'imagine_VBP', 'imagine_VBG', 'imagine_VBN', 'imagine_VBD', 'imagine_VBZ']",-6.83397434,11.30103885
+finger_NN,90,10143,"['finger_NNS', 'finger_NN']",-6.816343705,12.26039687
+could_MD,3137,353052,['could_MD'],-6.81435135,7.137080148
+ca_MD,442,49576,['ca_MD'],-6.809451694,9.964347402
+participant_NN,467,51572,"['participant_NNS', 'participant_NN']",-6.787021635,9.884971222
+abandon_VB,125,13733,"['abandon_VBN', 'abandon_VBD', 'abandon_VBG', 'abandon_VB', 'abandon_VBP', 'abandon_VBZ']",-6.779574914,11.78646568
+too_RB,1214,133368,['too_RB'],-6.779500319,8.506697255
+completely_RB,290,31810,['completely_RB'],-6.777283661,10.57234087
+heat_NN,202,22046,"['heat_NN', 'heat_NNP']",-6.770017815,11.09403848
+ready_JJ,262,28337,['ready_JJ'],-6.756976408,10.71882696
+though_RB,118,12745,['though_RB'],-6.755000704,11.86960691
+'re_VB,1178,127149,"[""'re_VBP""]",-6.754036766,8.550126138
+superior_JJ,90,9677,['superior_JJ'],-6.74849105,12.26039687
+'d_MD,483,51923,"[""'d_MD""]",-6.748206742,9.836370583
+'ve_VB,993,106163,"[""'ve_VBP"", ""'ve_VB""]",-6.740271612,8.796600054
+respondent_NN,344,36464,"['respondent_NNS', 'respondent_NN', 'respondent_NNP']",-6.727920455,10.32598521
+make_VB,7109,745504,"['make_VBG', 'make_VB', 'make_VBZ', 'make_VBD', 'make_VBP', 'make_VBN']",-6.712425648,5.956819042
+love_VB,350,36695,"['love_VBN', 'love_VBP', 'love_VBD', 'love_VBZ', 'love_VB', 'love_VBG']",-6.712084765,10.30103885
+anything_NN,506,52768,['anything_NN'],-6.704382109,9.769256387
+soul_NN,146,15153,"['soul_NNS', 'soul_NN', 'soul_NNP']",-6.697491268,11.5624254
+nice_JJ,201,20786,"['nice_JJ', 'nice_JJR', 'nice_JJS']",-6.692272845,11.10119827
+body_NN,1006,104015,"['body_NN', 'body_NNS', 'body_NNPS', 'body_NNP']",-6.692017479,8.777835372
+absolutely_RB,123,12714,['absolutely_RB'],-6.691615868,11.80973546
+someone_NN,517,53009,"['someone_NN', 'someone_NNS']",-6.679929234,9.738229491
+cool_JJ,131,13272,"['cool_JJ', 'cool_JJR', 'cool_JJS']",-6.662675169,11.71882696
+skin_NN,214,21649,"['skin_NN', 'skin_NNS']",-6.660545779,11.01078298
+enough_JJ,321,32278,['enough_JJ'],-6.651834082,10.42582047
+familiar_JJ,195,19577,['familiar_JJ'],-6.649541768,11.14491965
+positive_JJ,428,42655,['positive_JJ'],-6.638960257,10.01078298
+unable_JJ,211,21020,['unable_JJ'],-6.63837586,11.03115077
+moment_NN,408,40503,"['moment_NNS', 'moment_NN']",-6.633315808,10.07982462
+quite_RB,579,56993,['quite_RB'],-6.621077577,9.574830424
+everybody_NN,102,9945,['everybody_NN'],-6.607330314,12.07982462
+amazing_JJ,99,9595,['amazing_JJ'],-6.598710471,12.12289334
+perfectly_RB,88,8471,['perfectly_RB'],-6.588884956,12.29281834
+soft_JJ,146,13854,"['soft_JJ', 'soft_JJR', 'soft_JJS']",-6.5681904,11.5624254
+bind_VB,144,13604,"['bind_VBN', 'bind_VBZ', 'bind_VBD']",-6.561818289,11.58232496
+little_JJ,1196,112844,['little_JJ'],-6.559968512,8.528248288
+arise_VB,358,33629,"['arise_VBP', 'arise_VB', 'arise_VBZ', 'arise_VBD', 'arise_VBG', 'arise_VBN']",-6.553602481,10.26843418
+shake_VB,95,8888,"['shake_VBG', 'shake_VBN', 'shake_VB', 'shake_VBD', 'shake_VBZ', 'shake_VBP']",-6.547787493,12.18239435
+trust_VB,105,9627,"['trust_VB', 'trust_VBN', 'trust_VBG', 'trust_VBP', 'trust_VBD']",-6.518625057,12.03800444
+desire_NN,252,23027,"['desire_NN', 'desire_NNS']",-6.513758922,10.77497004
+very_RB,3296,299778,['very_RB'],-6.507034458,7.065749435
+passion_NN,118,10714,"['passion_NN', 'passion_NNS']",-6.504566531,11.86960691
+everyone_NN,503,45610,['everyone_NN'],-6.50264796,9.777835372
+still_RB,1866,168901,['still_RB'],-6.500085073,7.886516691
+n't_RB,5371,485391,"[""n't_RB""]",-6.497812827,6.361274956
+slightly_RB,206,18185,['slightly_RB'],-6.463960778,11.06574943
+'m_VB,862,75959,"[""'m_VBP""]",-6.461389233,9.000705903
+relief_NN,194,17057,"['relief_NN', 'relief_NNP']",-6.458163464,11.15233712
+stress_VB,136,11957,"['stress_VBZ', 'stress_VBD', 'stress_VBN', 'stress_VB', 'stress_VBP']",-6.458105002,11.66478712
+need_NN,1800,156259,"['need_NN', 'need_NNS', 'need_NNP']",-6.43979857,7.938468771
+never_RB,1362,117774,['never_RB'],-6.434150569,8.340738974
+always_RB,1261,108913,['always_RB'],-6.43246408,8.451897401
+empty_JJ,114,9665,['empty_JJ'],-6.405664003,11.91935995
+negative_JJ,304,25742,['negative_JJ'],-6.403909013,10.50432245
+ought_MD,124,10253,['ought_MD'],-6.369562169,11.79805365
+wonderful_JJ,213,17574,['wonderful_JJ'],-6.366445358,11.01754034
+presence_NN,404,33288,"['presence_NN', 'presence_NNP', 'presence_NNS']",-6.36450309,10.09403848
+weak_JJ,172,14158,"['weak_JJ', 'weak_JJR', 'weak_JJS']",-6.363065105,11.32598521
+inner_JJ,124,10206,['inner_JJ'],-6.362933616,11.79805365
+leg_NN,170,13974,"['leg_NNS', 'leg_NN']",-6.361066489,11.34285903
+cry_VB,109,8859,"['cry_VB', 'cry_VBG', 'cry_VBP', 'cry_VBD', 'cry_VBZ']",-6.344743817,11.98406564
+right_RB,516,41699,['right_RB'],-6.33649791,9.741022706
+emotional_JJ,196,15822,['emotional_JJ'],-6.334934512,11.13754012
+alone_RB,425,34279,['alone_RB'],-6.333718372,10.02093093
+earthquake_NN,158,12743,"['earthquake_NN', 'earthquake_NNP', 'earthquake_NNS']",-6.333636593,11.44846921
+experience_VB,535,43088,"['experience_VBZ', 'experience_VBG', 'experience_VB', 'experience_VBD', 'experience_VBP', 'experience_VBN']",-6.331603433,9.68885488
+comfort_NN,121,9744,"['comfort_NN', 'comfort_NNS']",-6.331435181,11.83338672
+satisfaction_NN,153,12283,"['satisfaction_NN', 'satisfaction_NNS']",-6.326987504,11.49486212
+sharp_JJ,121,9662,"['sharp_JJ', 'sharp_JJS', 'sharp_JJR']",-6.3192429,11.83338672
+belong_VB,224,17643,"['belong_VBZ', 'belong_VBG', 'belong_VBP', 'belong_VBD', 'belong_VB', 'belong_VBN']",-6.299453354,10.94489504
+definitely_RB,140,10982,['definitely_RB'],-6.293570179,11.62296694
+something_NN,1315,102998,['something_NN'],-6.291409714,8.391402878
+competent_JJ,93,7191,['competent_JJ'],-6.272817883,12.21309115
+strong_JJ,1094,84418,"['strong_JJ', 'strong_JJR', 'strong_JJS']",-6.269866007,8.656852939
+genuine_JJ,101,7756,['genuine_JJ'],-6.262885605,12.09403848
+love_NN,446,34187,"['love_NN', 'love_NNP']",-6.260260308,9.951350062
+depression_NN,163,12437,"['depression_NN', 'depression_NNP', 'depression_NNS']",-6.253622752,11.40352181
+totally_RB,160,11821,['totally_RB'],-6.20713637,11.43032187
+accomplishment_NN,119,8686,"['accomplishment_NN', 'accomplishment_NNS']",-6.189658474,11.8574322
+bit_NN,657,47515,"['bit_NN', 'bit_NNS']",-6.176345849,9.392500401
+sometimes_RB,802,57773,['sometimes_RB'],-6.170649365,9.104791535
+tension_NN,133,9413,"['tension_NNS', 'tension_NN']",-6.145156444,11.69696753
+self_NN,232,16201,"['self_NN', 'self_NNS', 'self_NNP']",-6.12581425,10.89426897
+honor_VB,187,12991,"['honor_VBN', 'honor_VBD', 'honor_VB', 'honor_VBG', 'honor_VBP']",-6.118330408,11.2053555
+convey_VB,135,9341,"['convey_VB', 'convey_VBN', 'convey_VBZ', 'convey_VBG', 'convey_VBP', 'convey_VBD']",-6.112545693,11.67543436
+deep_JJ,500,34230,"['deep_JJ', 'deep_JJR', 'deep_JJS']",-6.097189387,9.786465677
+truly_RB,308,20819,['truly_RB'],-6.078826612,10.48546342
+deserve_VB,163,10952,"['deserve_VBP', 'deserve_VBZ', 'deserve_VBD', 'deserve_VBN', 'deserve_VB']",-6.070178577,11.40352181
+good_JJ,4809,320345,"['good_JJ', 'good_JJR']",-6.057745736,6.520728751
+pressure_NN,678,45080,"['pressure_NN', 'pressure_NNS']",-6.055058432,9.347108499
+inadequate_JJ,119,7898,['inadequate_JJ'],-6.052453889,11.8574322
+sense_NN,931,61765,['sense_NN'],-6.051864568,8.889612604
+funny_JJ,89,5822,"['funny_JJ', 'funny_JJS']",-6.031565693,12.27651653
+sudden_JJ,108,7044,['sudden_JJ'],-6.027291692,11.99736246
+somewhat_RB,292,19038,['somewhat_RB'],-6.026769748,10.5624254
+touch_VB,198,12909,"['touch_VBN', 'touch_VBP', 'touch_VBD', 'touch_VB', 'touch_VBG']",-6.026733006,11.12289334
+afraid_JJ,135,8756,['afraid_JJ'],-6.019240642,11.67543436
+breath_NN,125,8057,"['breath_NN', 'breath_NNS', 'breath_NNP']",-6.010242756,11.78646568
+pretty_RB,374,23796,['pretty_RB'],-5.991537003,10.2053555
+consciousness_NN,148,9299,['consciousness_NN'],-5.973406498,11.5427966
+guess_VB,183,11480,"['guess_VBN', 'guess_VBP', 'guess_VB', 'guess_VBG']",-5.971135183,11.23655012
+happiness_NN,116,7184,"['happiness_NN', 'happiness_NNP']",-5.95259064,11.89426897
+mixed_JJ,152,9356,['mixed_JJ'],-5.943748633,11.50432245
+alive_JJ,166,10102,['alive_JJ'],-5.927313895,11.37721053
+chest_NN,111,6562,['chest_NN'],-5.885504012,11.9578341
+cold_JJ,325,19162,"['cold_JJ', 'cold_JJR', 'cold_JJS']",-5.881664619,10.40795405
+vulnerable_JJ,173,10143,['vulnerable_JJ'],-5.873568574,11.31762173
+physically_RB,152,8894,['physically_RB'],-5.870689176,11.50432245
+touch_NN,226,13184,"['touch_NN', 'touch_NNS', 'touch_NNP']",-5.866321565,10.932071
+really_RB,1840,105443,['really_RB'],-5.840613746,7.906759911
+prepared_JJ,135,7550,['prepared_JJ'],-5.805445332,11.67543436
+differently_RB,145,8036,['differently_RB'],-5.792352759,11.57234087
+pleasure_NN,215,11866,"['pleasure_NN', 'pleasure_NNS']",-5.786353218,11.00405711
+odd_JJ,104,5633,"['odd_JJ', 'odd_JJS']",-5.759248038,12.05181024
+please_VB,1175,63260,"['please_VB', 'please_VBP', 'please_VBG', 'please_VBN', 'please_VBD', 'please_VBZ']",-5.750560894,8.55380492
+neutral_JJ,100,5366,['neutral_JJ'],-5.745775149,12.10839377
+mood_NN,119,6358,"['mood_NN', 'mood_NNS']",-5.739539538,11.8574322
+bad_JJ,1217,64529,"['bad_JJ', 'bad_JJR', 'bad_JJS']",-5.728546595,8.503136509
+fear_NN,478,24886,"['fear_NN', 'fear_NNS']",-5.702179932,9.851383154
+value_VB,186,9448,"['value_VBN', 'value_VBP', 'value_VBZ', 'value_VBG', 'value_VBD', 'value_VB']",-5.666634438,11.21309115
+mix_VB,154,7816,"['mix_VBN', 'mix_VB', 'mix_VBG', 'mix_VBD']",-5.665428211,11.48546342
+pulse_NN,108,5472,"['pulse_NN', 'pulse_NNS']",-5.662965013,11.99736246
+wake_VB,118,5972,"['wake_VBP', 'wake_VBD', 'wake_VBZ', 'wake_VB', 'wake_VBG', 'wake_VBN']",-5.661355401,11.86960691
+nervous_JJ,143,7153,['nervous_JJ'],-5.644461389,11.59237862
+personally_RB,264,13182,['personally_RB'],-5.641887536,10.70785584
+slight_JJ,164,8050,"['slight_JJ', 'slight_JJS', 'slight_JJR']",-5.617221063,11.39469796
+happy_JJ,527,25051,"['happy_JJ', 'happy_JJR', 'happy_JJS']",-5.570921423,9.71059081
+ill_JJ,140,6477,['ill_JJ'],-5.531827012,11.62296694
+grateful_JJ,117,5310,['grateful_JJ'],-5.504131426,11.88188524
+perception_NN,352,15853,"['perception_NN', 'perception_NNS', 'perception_NNP']",-5.493036641,10.29281834
+rush_VB,125,5615,"['rush_VBD', 'rush_VBN', 'rush_VBG', 'rush_VB', 'rush_VBZ']",-5.489286023,11.78646568
+express_VB,972,43342,"['express_VBG', 'express_VB', 'express_VBN', 'express_VBZ', 'express_VBD', 'express_VBP']",-5.478665604,8.827437458
+suddenly_RB,297,13000,['suddenly_RB'],-5.451904882,10.53793084
+stupid_JJ,87,3775,['stupid_JJ'],-5.439317433,12.30930647
+isolated_JJ,94,4027,['isolated_JJ'],-5.420900905,12.19766111
+hatred_NN,93,3951,"['hatred_NN', 'hatred_NNP']",-5.40884332,12.21309115
+proud_JJ,303,12836,"['proud_JJ', 'proud_JJS', 'proud_JJR']",-5.404734091,10.50907598
+smell_VB,88,3703,"['smell_VBZ', 'smell_VBD', 'smell_VB', 'smell_VBN', 'smell_VBP', 'smell_VBG']",-5.395047216,12.29281834
+contact_VB,671,28185,"['contact_VB', 'contact_VBG', 'contact_VBN', 'contact_VBP', 'contact_VBD']",-5.392470991,9.362081006
+shock_NN,236,9784,"['shock_NN', 'shock_NNS']",-5.373565639,10.86960691
+somehow_RB,230,9481,['somehow_RB'],-5.365333468,10.90675991
+joy_NN,222,9132,"['joy_NN', 'joy_NNS', 'joy_NNP']",-5.362299278,10.9578341
+hungry_JJ,99,4012,"['hungry_JJ', 'hungry_JJR']",-5.340749271,12.12289334
+overwhelming_JJ,162,6563,['overwhelming_JJ'],-5.340289715,11.41239996
+dad_NN,154,6190,"['dad_NN', 'dad_NNS', 'dad_NNP']",-5.328937153,11.48546342
+threaten_VB,488,19557,"['threaten_VBN', 'threaten_VBG', 'threaten_VBD', 'threaten_VB', 'threaten_VBP', 'threaten_VBZ']",-5.324660123,9.821512624
+empower_VB,179,7025,"['empower_VBN', 'empower_VBD', 'empower_VBZ', 'empower_VBG', 'empower_VB', 'empower_VBP']",-5.294466733,11.26843418
+isolate_VB,241,9292,"['isolate_VBN', 'isolate_VB', 'isolate_VBD', 'isolate_VBG']",-5.268884103,10.83936063
+intense_JJ,276,10494,"['intense_JJ', 'intense_JJS']",-5.248752618,10.6437255
+badly_RB,127,4800,['badly_RB'],-5.240134004,11.76356527
+grief_NN,104,3874,['grief_NN'],-5.21916852,12.05181024
+exhaust_VB,92,3379,"['exhaust_VBN', 'exhaust_VBG']",-5.198818679,12.22868801
+isolation_NN,189,6793,['isolation_NN'],-5.167590715,11.19000754
+warm_JJ,475,16623,"['warm_JJ', 'warm_JJR', 'warm_JJS']",-5.129109449,9.860466259
+constrain_VB,106,3586,"['constrain_VBN', 'constrain_VB', 'constrain_VBD']",-5.080239318,12.02432951
+sick_JJ,345,11521,"['sick_JJ', 'sick_JJR']",-5.061525773,10.32179741
+excitement_NN,153,4995,['excitement_NN'],-5.02888112,11.49486212
+stomach_NN,176,5736,"['stomach_NN', 'stomach_NNS']",-5.02639769,11.29281834
+pride_NN,240,7712,"['pride_NN', 'pride_NNP']",-5.005998741,10.84535937
+awful_JJ,90,2887,['awful_JJ'],-5.003502296,12.26039687
+thought_NN,1022,32667,"['thought_NNS', 'thought_NN', 'thought_NNP']",-4.998366868,8.755070481
+contraction_NN,105,3327,"['contraction_NNS', 'contraction_NN']",-4.985760633,12.03800444
+bless_VB,111,3480,"['bless_VBN', 'bless_VBD', 'bless_VBZ']",-4.970455724,11.9578341
+safe_JJ,1208,37733,"['safe_JJ', 'safe_JJR', 'safe_JJS']",-4.965134448,8.513845222
+deeply_RB,388,12093,"['deeply_RB', 'deeply_RBR']",-4.961971726,10.15233712
+secure_JJ,491,15273,['secure_JJ'],-4.959116637,9.812670747
+satisfied_JJ,147,4533,['satisfied_JJ'],-4.946578101,11.55257762
+disappointment_NN,87,2661,"['disappointment_NN', 'disappointment_NNS']",-4.934809299,12.30930647
+strange_JJ,358,10821,"['strange_JJ', 'strange_JJS']",-4.917730431,10.26843418
+justified_JJ,108,3254,['justified_JJ'],-4.913111034,11.99736246
+pain_NN,1166,34929,"['pain_NN', 'pain_NNS']",-4.904785646,8.564897889
+relax_VB,313,9275,"['relax_VBN', 'relax_VBG', 'relax_VBD', 'relax_VB', 'relax_VBP']",-4.889112719,10.46223111
+emotionally_RB,102,3016,['emotionally_RB'],-4.885995371,12.07982462
+compassion_NN,160,4728,"['compassion_NN', 'compassion_NNP']",-4.885086225,11.43032187
+calm_JJ,142,4167,"['calm_JJ', 'calm_JJR']",-4.875046265,11.60250284
+trap_VB,119,3476,"['trap_VBN', 'trap_VBD']",-4.868394604,11.8574322
+unhappy_JJ,95,2752,"['unhappy_JJ', 'unhappy_JJS']",-4.856409146,12.18239435
+gratitude_NN,92,2659,['gratitude_NN'],-4.853106106,12.22868801
+painful_JJ,207,5874,['painful_JJ'],-4.826640593,11.058763
+despair_NN,99,2795,['despair_NN'],-4.819275948,12.12289334
+terrible_JJ,258,7271,['terrible_JJ'],-4.816710825,10.74102271
+anxiety_NN,299,8385,"['anxiety_NN', 'anxiety_NNS']",-4.809593394,10.52824829
+free_JJ,3285,91996,"['free_JJ', 'free_JJR']",-4.807605858,7.070572307
+look_NN,953,26364,"['look_NN', 'look_NNS', 'look_NNP']",-4.789949251,8.855917558
+ease_NN,265,7123,['ease_NN'],-4.748420725,10.70240141
+welcome_JJ,429,10908,['welcome_JJ'],-4.668265147,10.00741612
+evoke_VB,119,3001,"['evoke_VBZ', 'evoke_VB', 'evoke_VBG', 'evoke_VBD', 'evoke_VBP', 'evoke_VBN']",-4.65640984,11.8574322
+email_VB,103,2544,"['email_VB', 'email_VBD', 'email_VBP']",-4.626382428,12.06574943
+weird_JJ,121,2940,"['weird_JJ', 'weird_JJS']",-4.602737202,11.83338672
+lucky_JJ,256,6183,"['lucky_JJ', 'lucky_JJS', 'lucky_JJR']",-4.59409129,10.75224996
+privileged_JJ,143,3371,['privileged_JJ'],-4.559089575,11.59237862
+connected_JJ,93,2191,['connected_JJ'],-4.558214958,12.21309115
+hurt_VB,428,9922,"['hurt_VBG', 'hurt_VB', 'hurt_VBN', 'hurt_VBZ', 'hurt_VBP', 'hurt_VBD']",-4.534948255,10.01078298
+sorrow_NN,103,2381,"['sorrow_NN', 'sorrow_NNS']",-4.530851378,12.06574943
+fortunate_JJ,191,4367,['fortunate_JJ'],-4.514997988,11.17482113
+angry_JJ,298,6473,['angry_JJ'],-4.441050268,10.53308144
+sympathy_NN,176,3589,"['sympathy_NN', 'sympathy_NNS']",-4.349934589,11.29281834
+discomfort_NN,144,2844,"['discomfort_NN', 'discomfort_NNS']",-4.303780748,11.58232496
+frustration_NN,266,5115,"['frustration_NN', 'frustration_NNS']",-4.265236089,10.69696753
+cheat_VB,106,2018,"['cheat_VBN', 'cheat_VB', 'cheat_VBG', 'cheat_VBZ', 'cheat_VBP', 'cheat_VBD']",-4.250790005,12.02432951
+anger_NN,396,7519,['anger_NN'],-4.246968466,10.12289334
+emotion_NN,524,9705,"['emotion_NNS', 'emotion_NN']",-4.211089496,9.71882696
+confused_JJ,120,2207,['confused_JJ'],-4.200980319,11.84535937
+sad_JJ,342,6169,"['sad_JJ', 'sad_JJR', 'sad_JJS']",-4.172968416,10.33439745
+anxious_JJ,225,3761,['anxious_JJ'],-4.0631194,10.93846877
+shame_NN,212,3483,['shame_NN'],-4.038194303,11.02432951
+oblige_VB,236,3861,"['oblige_VBN', 'oblige_VB', 'oblige_VBD']",-4.03211579,10.86960691
+strongly_RB,1185,19288,['strongly_RB'],-4.024744592,8.541578618
+unsafe_JJ,153,2396,['unsafe_JJ'],-3.96902435,11.49486212
+awkward_JJ,132,2035,['awkward_JJ'],-3.94641896,11.70785584
+pity_NN,100,1531,['pity_NN'],-3.936402378,12.10839377
+guilty_JJ,764,11505,"['guilty_JJ', 'guilty_JJR']",-3.912544535,9.174821134
+obligate_VB,140,2090,"['obligate_VBN', 'obligate_VBD']",-3.90000421,11.62296694
+sensation_NN,355,5193,"['sensation_NNS', 'sensation_NN']",-3.870677296,10.28057475
+alienate_VB,121,1659,"['alienate_VBN', 'alienate_VBG', 'alienate_VBD', 'alienate_VB']",-3.777234934,11.83338672
+warmth_NN,190,2539,['warmth_NN'],-3.740189071,11.18239435
+resentment_NN,130,1714,"['resentment_NN', 'resentment_NNS']",-3.720783581,11.72988215
+hopeless_JJ,87,1120,['hopeless_JJ'],-3.686339521,12.30930647
+tired_JJ,338,4269,['tired_JJ'],-3.658803011,10.35137053
+gut_NN,206,2517,"['gut_NN', 'gut_NNS', 'gut_NNP']",-3.610988974,11.06574943
+pleasant_JJ,515,6219,['pleasant_JJ'],-3.59403828,9.74382134
+betray_VB,194,2205,"['betray_VBN', 'betray_VBD', 'betray_VBZ', 'betray_VBG', 'betray_VBP', 'betray_VB']",-3.506650098,11.15233712
+guilt_NN,355,3984,['guilt_NN'],-3.488326718,10.28057475
+sorry_JJ,575,6136,"['sorry_JJ', 'sorry_JJS', 'sorry_JJR']",-3.415664622,9.584831816
+frustrated_JJ,220,2310,['frustrated_JJ'],-3.392317423,10.97089025
+intimidate_VB,178,1829,"['intimidate_VBN', 'intimidate_VBD', 'intimidate_VBG']",-3.361105929,11.27651653
+urge_NN,154,1550,['urge_NN'],-3.331265959,11.48546342
+depressed_JJ,216,2126,['depressed_JJ'],-3.299038379,10.99736246
+overwhelm_VB,357,3434,"['overwhelm_VBN', 'overwhelm_VBD', 'overwhelm_VB', 'overwhelm_VBZ', 'overwhelm_VBP']",-3.26589406,10.2724697
+lonely_JJ,229,2187,"['lonely_JJ', 'lonely_JJR', 'lonely_JJS']",-3.255533717,10.91304617
+sadness_NN,178,1633,"['sadness_NN', 'sadness_NNP']",-3.197575645,11.27651653
+insecure_JJ,112,996,['insecure_JJ'],-3.15264701,11.94489504
+remorse_NN,97,859,['remorse_NN'],-3.146601479,12.15233712
+unpleasant_JJ,400,3193,['unpleasant_JJ'],-2.996840648,10.10839377
+confident_JJ,1042,8302,['confident_JJ'],-2.994103654,8.727110399
+ashamed_JJ,193,1517,['ashamed_JJ'],-2.974548333,11.15979292
+pinch_NN,91,708,"['pinch_NN', 'pinch_NNS']",-2.95981091,12.24445532
+keenly_RB,88,674,['keenly_RB'],-2.937173163,12.29281834
+compel_VB,708,4957,"['compel_VBN', 'compel_VBD', 'compel_VBZ', 'compel_VB']",-2.807645993,9.284644412
+helpless_JJ,212,1431,['helpless_JJ'],-2.754887502,11.02432951
+numb_JJ,103,679,['numb_JJ'],-2.720767237,12.06574943
+relieved_JJ,101,651,['relieved_JJ'],-2.68830225,12.09403848
+powerless_JJ,154,980,['powerless_JJ'],-2.669851398,11.48546342
+embarrassed_JJ,147,915,['embarrassed_JJ'],-2.637955588,11.55257762
+comfortable_JJ,2731,15553,['comfortable_JJ'],-2.509691668,7.337036363
+uneasy_JJ,206,1105,['uneasy_JJ'],-2.423330127,11.06574943
+uncomfortable_JJ,757,3842,['uncomfortable_JJ'],-2.343492314,9.188100472
+helplessness_NN,119,429,['helplessness_NN'],-1.850016074,11.8574322
+dizzy_JJ,127,415,['dizzy_JJ'],-1.708282839,11.76356527
+pressured_JJ,116,270,['pressured_JJ'],-1.218834602,11.89426897
+nauseous_JJ,89,193,['nauseous_JJ'],-1.116723606,12.27651653
