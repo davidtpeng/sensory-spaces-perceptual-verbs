@@ -18,6 +18,6 @@ intersections/ contains significant intersections of two perception verbs, or de
 - OSI_x: Specificity index of descriptor for first perception
 The same data is repeated for the second perception verb.
 
-top_by_association_index_300/ has the same data format as differences/ and contains the top 300 descriptors by association index for each perception verb.
+top_by_association_index_300/ has the same data format as differences/ and contains the top 300 descriptors by association index for each perception verb. This also includes the oai for each descriptor in the purple subcluster of feel taken from the top 300 descriptors of feel.
 
 top_by_frequency_1600/ has the same data format as differences/ and contains the top roughly 1600 descriptors by context frequency for each perception verb.

@@ -1,0 +1,171 @@
+,OlfN,TotalN,Tokens,OAI,OSI
+confidence_NN,149,19187,"['confidence_NN', 'confidence_NNS']",-7.008673014,11.53308144
+hot_JJ,186,23908,"['hot_JJ', 'hot_JJS']",-7.006047016,11.21309115
+home_NN,1297,161002,"['home_NN', 'home_NNS', 'home_NNP', 'home_NNPS']",-6.95575632,8.411287197
+heavy_JJ,194,23971,"['heavy_JJ', 'heavy_JJR', 'heavy_JJS']",-6.949089633,11.15233712
+obligation_NN,194,23818,"['obligation_NNS', 'obligation_NN']",-6.939851812,11.15233712
+mind_NN,555,67930,"['mind_NN', 'mind_NNS', 'mind_NNP']",-6.935417272,9.635906
+stress_NN,162,19687,['stress_NN'],-6.92510566,11.41239996
+respect_VB,108,12471,"['respect_VBN', 'respect_VBP', 'respect_VBG', 'respect_VB', 'respect_VBZ', 'respect_VBD']",-6.851402031,11.99736246
+finger_NN,90,10143,"['finger_NNS', 'finger_NN']",-6.816343705,12.26039687
+abandon_VB,125,13733,"['abandon_VBN', 'abandon_VBD', 'abandon_VBG', 'abandon_VB', 'abandon_VBP', 'abandon_VBZ']",-6.779574914,11.78646568
+heat_NN,202,22046,"['heat_NN', 'heat_NNP']",-6.770017815,11.09403848
+ready_JJ,262,28337,['ready_JJ'],-6.756976408,10.71882696
+soul_NN,146,15153,"['soul_NNS', 'soul_NN', 'soul_NNP']",-6.697491268,11.5624254
+nice_JJ,201,20786,"['nice_JJ', 'nice_JJR', 'nice_JJS']",-6.692272845,11.10119827
+body_NN,1006,104015,"['body_NN', 'body_NNS', 'body_NNPS', 'body_NNP']",-6.692017479,8.777835372
+cool_JJ,131,13272,"['cool_JJ', 'cool_JJR', 'cool_JJS']",-6.662675169,11.71882696
+skin_NN,214,21649,"['skin_NN', 'skin_NNS']",-6.660545779,11.01078298
+unable_JJ,211,21020,['unable_JJ'],-6.63837586,11.03115077
+amazing_JJ,99,9595,['amazing_JJ'],-6.598710471,12.12289334
+soft_JJ,146,13854,"['soft_JJ', 'soft_JJR', 'soft_JJS']",-6.5681904,11.5624254
+bind_VB,144,13604,"['bind_VBN', 'bind_VBZ', 'bind_VBD']",-6.561818289,11.58232496
+desire_NN,252,23027,"['desire_NN', 'desire_NNS']",-6.513758922,10.77497004
+passion_NN,118,10714,"['passion_NN', 'passion_NNS']",-6.504566531,11.86960691
+relief_NN,194,17057,"['relief_NN', 'relief_NNP']",-6.458163464,11.15233712
+stress_VB,136,11957,"['stress_VBZ', 'stress_VBD', 'stress_VBN', 'stress_VB', 'stress_VBP']",-6.458105002,11.66478712
+need_NN,1800,156259,"['need_NN', 'need_NNS', 'need_NNP']",-6.43979857,7.938468771
+ought_MD,124,10253,['ought_MD'],-6.369562169,11.79805365
+wonderful_JJ,213,17574,['wonderful_JJ'],-6.366445358,11.01754034
+weak_JJ,172,14158,"['weak_JJ', 'weak_JJR', 'weak_JJS']",-6.363065105,11.32598521
+inner_JJ,124,10206,['inner_JJ'],-6.362933616,11.79805365
+leg_NN,170,13974,"['leg_NNS', 'leg_NN']",-6.361066489,11.34285903
+emotional_JJ,196,15822,['emotional_JJ'],-6.334934512,11.13754012
+alone_RB,425,34279,['alone_RB'],-6.333718372,10.02093093
+earthquake_NN,158,12743,"['earthquake_NN', 'earthquake_NNP', 'earthquake_NNS']",-6.333636593,11.44846921
+comfort_NN,121,9744,"['comfort_NN', 'comfort_NNS']",-6.331435181,11.83338672
+satisfaction_NN,153,12283,"['satisfaction_NN', 'satisfaction_NNS']",-6.326987504,11.49486212
+competent_JJ,93,7191,['competent_JJ'],-6.272817883,12.21309115
+love_NN,446,34187,"['love_NN', 'love_NNP']",-6.260260308,9.951350062
+depression_NN,163,12437,"['depression_NN', 'depression_NNP', 'depression_NNS']",-6.253622752,11.40352181
+accomplishment_NN,119,8686,"['accomplishment_NN', 'accomplishment_NNS']",-6.189658474,11.8574322
+tension_NN,133,9413,"['tension_NNS', 'tension_NN']",-6.145156444,11.69696753
+self_NN,232,16201,"['self_NN', 'self_NNS', 'self_NNP']",-6.12581425,10.89426897
+honor_VB,187,12991,"['honor_VBN', 'honor_VBD', 'honor_VB', 'honor_VBG', 'honor_VBP']",-6.118330408,11.2053555
+good_JJ,4809,320345,"['good_JJ', 'good_JJR']",-6.057745736,6.520728751
+pressure_NN,678,45080,"['pressure_NN', 'pressure_NNS']",-6.055058432,9.347108499
+funny_JJ,89,5822,"['funny_JJ', 'funny_JJS']",-6.031565693,12.27651653
+afraid_JJ,135,8756,['afraid_JJ'],-6.019240642,11.67543436
+consciousness_NN,148,9299,['consciousness_NN'],-5.973406498,11.5427966
+happiness_NN,116,7184,"['happiness_NN', 'happiness_NNP']",-5.95259064,11.89426897
+alive_JJ,166,10102,['alive_JJ'],-5.927313895,11.37721053
+chest_NN,111,6562,['chest_NN'],-5.885504012,11.9578341
+cold_JJ,325,19162,"['cold_JJ', 'cold_JJR', 'cold_JJS']",-5.881664619,10.40795405
+vulnerable_JJ,173,10143,['vulnerable_JJ'],-5.873568574,11.31762173
+prepared_JJ,135,7550,['prepared_JJ'],-5.805445332,11.67543436
+pleasure_NN,215,11866,"['pleasure_NN', 'pleasure_NNS']",-5.786353218,11.00405711
+odd_JJ,104,5633,"['odd_JJ', 'odd_JJS']",-5.759248038,12.05181024
+please_VB,1175,63260,"['please_VB', 'please_VBP', 'please_VBG', 'please_VBN', 'please_VBD', 'please_VBZ']",-5.750560894,8.55380492
+mood_NN,119,6358,"['mood_NN', 'mood_NNS']",-5.739539538,11.8574322
+bad_JJ,1217,64529,"['bad_JJ', 'bad_JJR', 'bad_JJS']",-5.728546595,8.503136509
+fear_NN,478,24886,"['fear_NN', 'fear_NNS']",-5.702179932,9.851383154
+value_VB,186,9448,"['value_VBN', 'value_VBP', 'value_VBZ', 'value_VBG', 'value_VBD', 'value_VB']",-5.666634438,11.21309115
+nervous_JJ,143,7153,['nervous_JJ'],-5.644461389,11.59237862
+happy_JJ,527,25051,"['happy_JJ', 'happy_JJR', 'happy_JJS']",-5.570921423,9.71059081
+ill_JJ,140,6477,['ill_JJ'],-5.531827012,11.62296694
+grateful_JJ,117,5310,['grateful_JJ'],-5.504131426,11.88188524
+perception_NN,352,15853,"['perception_NN', 'perception_NNS', 'perception_NNP']",-5.493036641,10.29281834
+stupid_JJ,87,3775,['stupid_JJ'],-5.439317433,12.30930647
+isolated_JJ,94,4027,['isolated_JJ'],-5.420900905,12.19766111
+hatred_NN,93,3951,"['hatred_NN', 'hatred_NNP']",-5.40884332,12.21309115
+proud_JJ,303,12836,"['proud_JJ', 'proud_JJS', 'proud_JJR']",-5.404734091,10.50907598
+contact_VB,671,28185,"['contact_VB', 'contact_VBG', 'contact_VBN', 'contact_VBP', 'contact_VBD']",-5.392470991,9.362081006
+shock_NN,236,9784,"['shock_NN', 'shock_NNS']",-5.373565639,10.86960691
+joy_NN,222,9132,"['joy_NN', 'joy_NNS', 'joy_NNP']",-5.362299278,10.9578341
+hungry_JJ,99,4012,"['hungry_JJ', 'hungry_JJR']",-5.340749271,12.12289334
+overwhelming_JJ,162,6563,['overwhelming_JJ'],-5.340289715,11.41239996
+threaten_VB,488,19557,"['threaten_VBN', 'threaten_VBG', 'threaten_VBD', 'threaten_VB', 'threaten_VBP', 'threaten_VBZ']",-5.324660123,9.821512624
+empower_VB,179,7025,"['empower_VBN', 'empower_VBD', 'empower_VBZ', 'empower_VBG', 'empower_VB', 'empower_VBP']",-5.294466733,11.26843418
+isolate_VB,241,9292,"['isolate_VBN', 'isolate_VB', 'isolate_VBD', 'isolate_VBG']",-5.268884103,10.83936063
+intense_JJ,276,10494,"['intense_JJ', 'intense_JJS']",-5.248752618,10.6437255
+badly_RB,127,4800,['badly_RB'],-5.240134004,11.76356527
+grief_NN,104,3874,['grief_NN'],-5.21916852,12.05181024
+exhaust_VB,92,3379,"['exhaust_VBN', 'exhaust_VBG']",-5.198818679,12.22868801
+isolation_NN,189,6793,['isolation_NN'],-5.167590715,11.19000754
+constrain_VB,106,3586,"['constrain_VBN', 'constrain_VB', 'constrain_VBD']",-5.080239318,12.02432951
+sick_JJ,345,11521,"['sick_JJ', 'sick_JJR']",-5.061525773,10.32179741
+excitement_NN,153,4995,['excitement_NN'],-5.02888112,11.49486212
+stomach_NN,176,5736,"['stomach_NN', 'stomach_NNS']",-5.02639769,11.29281834
+pride_NN,240,7712,"['pride_NN', 'pride_NNP']",-5.005998741,10.84535937
+awful_JJ,90,2887,['awful_JJ'],-5.003502296,12.26039687
+thought_NN,1022,32667,"['thought_NNS', 'thought_NN', 'thought_NNP']",-4.998366868,8.755070481
+contraction_NN,105,3327,"['contraction_NNS', 'contraction_NN']",-4.985760633,12.03800444
+bless_VB,111,3480,"['bless_VBN', 'bless_VBD', 'bless_VBZ']",-4.970455724,11.9578341
+safe_JJ,1208,37733,"['safe_JJ', 'safe_JJR', 'safe_JJS']",-4.965134448,8.513845222
+secure_JJ,491,15273,['secure_JJ'],-4.959116637,9.812670747
+satisfied_JJ,147,4533,['satisfied_JJ'],-4.946578101,11.55257762
+disappointment_NN,87,2661,"['disappointment_NN', 'disappointment_NNS']",-4.934809299,12.30930647
+strange_JJ,358,10821,"['strange_JJ', 'strange_JJS']",-4.917730431,10.26843418
+pain_NN,1166,34929,"['pain_NN', 'pain_NNS']",-4.904785646,8.564897889
+relax_VB,313,9275,"['relax_VBN', 'relax_VBG', 'relax_VBD', 'relax_VB', 'relax_VBP']",-4.889112719,10.46223111
+compassion_NN,160,4728,"['compassion_NN', 'compassion_NNP']",-4.885086225,11.43032187
+calm_JJ,142,4167,"['calm_JJ', 'calm_JJR']",-4.875046265,11.60250284
+unhappy_JJ,95,2752,"['unhappy_JJ', 'unhappy_JJS']",-4.856409146,12.18239435
+gratitude_NN,92,2659,['gratitude_NN'],-4.853106106,12.22868801
+painful_JJ,207,5874,['painful_JJ'],-4.826640593,11.058763
+despair_NN,99,2795,['despair_NN'],-4.819275948,12.12289334
+terrible_JJ,258,7271,['terrible_JJ'],-4.816710825,10.74102271
+anxiety_NN,299,8385,"['anxiety_NN', 'anxiety_NNS']",-4.809593394,10.52824829
+free_JJ,3285,91996,"['free_JJ', 'free_JJR']",-4.807605858,7.070572307
+ease_NN,265,7123,['ease_NN'],-4.748420725,10.70240141
+welcome_JJ,429,10908,['welcome_JJ'],-4.668265147,10.00741612
+email_VB,103,2544,"['email_VB', 'email_VBD', 'email_VBP']",-4.626382428,12.06574943
+weird_JJ,121,2940,"['weird_JJ', 'weird_JJS']",-4.602737202,11.83338672
+lucky_JJ,256,6183,"['lucky_JJ', 'lucky_JJS', 'lucky_JJR']",-4.59409129,10.75224996
+privileged_JJ,143,3371,['privileged_JJ'],-4.559089575,11.59237862
+connected_JJ,93,2191,['connected_JJ'],-4.558214958,12.21309115
+hurt_VB,428,9922,"['hurt_VBG', 'hurt_VB', 'hurt_VBN', 'hurt_VBZ', 'hurt_VBP', 'hurt_VBD']",-4.534948255,10.01078298
+sorrow_NN,103,2381,"['sorrow_NN', 'sorrow_NNS']",-4.530851378,12.06574943
+fortunate_JJ,191,4367,['fortunate_JJ'],-4.514997988,11.17482113
+angry_JJ,298,6473,['angry_JJ'],-4.441050268,10.53308144
+sympathy_NN,176,3589,"['sympathy_NN', 'sympathy_NNS']",-4.349934589,11.29281834
+discomfort_NN,144,2844,"['discomfort_NN', 'discomfort_NNS']",-4.303780748,11.58232496
+frustration_NN,266,5115,"['frustration_NN', 'frustration_NNS']",-4.265236089,10.69696753
+cheat_VB,106,2018,"['cheat_VBN', 'cheat_VB', 'cheat_VBG', 'cheat_VBZ', 'cheat_VBP', 'cheat_VBD']",-4.250790005,12.02432951
+anger_NN,396,7519,['anger_NN'],-4.246968466,10.12289334
+emotion_NN,524,9705,"['emotion_NNS', 'emotion_NN']",-4.211089496,9.71882696
+confused_JJ,120,2207,['confused_JJ'],-4.200980319,11.84535937
+sad_JJ,342,6169,"['sad_JJ', 'sad_JJR', 'sad_JJS']",-4.172968416,10.33439745
+anxious_JJ,225,3761,['anxious_JJ'],-4.0631194,10.93846877
+shame_NN,212,3483,['shame_NN'],-4.038194303,11.02432951
+oblige_VB,236,3861,"['oblige_VBN', 'oblige_VB', 'oblige_VBD']",-4.03211579,10.86960691
+strongly_RB,1185,19288,['strongly_RB'],-4.024744592,8.541578618
+unsafe_JJ,153,2396,['unsafe_JJ'],-3.96902435,11.49486212
+awkward_JJ,132,2035,['awkward_JJ'],-3.94641896,11.70785584
+pity_NN,100,1531,['pity_NN'],-3.936402378,12.10839377
+guilty_JJ,764,11505,"['guilty_JJ', 'guilty_JJR']",-3.912544535,9.174821134
+obligate_VB,140,2090,"['obligate_VBN', 'obligate_VBD']",-3.90000421,11.62296694
+sensation_NN,355,5193,"['sensation_NNS', 'sensation_NN']",-3.870677296,10.28057475
+alienate_VB,121,1659,"['alienate_VBN', 'alienate_VBG', 'alienate_VBD', 'alienate_VB']",-3.777234934,11.83338672
+warmth_NN,190,2539,['warmth_NN'],-3.740189071,11.18239435
+resentment_NN,130,1714,"['resentment_NN', 'resentment_NNS']",-3.720783581,11.72988215
+hopeless_JJ,87,1120,['hopeless_JJ'],-3.686339521,12.30930647
+tired_JJ,338,4269,['tired_JJ'],-3.658803011,10.35137053
+pleasant_JJ,515,6219,['pleasant_JJ'],-3.59403828,9.74382134
+betray_VB,194,2205,"['betray_VBN', 'betray_VBD', 'betray_VBZ', 'betray_VBG', 'betray_VBP', 'betray_VB']",-3.506650098,11.15233712
+guilt_NN,355,3984,['guilt_NN'],-3.488326718,10.28057475
+sorry_JJ,575,6136,"['sorry_JJ', 'sorry_JJS', 'sorry_JJR']",-3.415664622,9.584831816
+frustrated_JJ,220,2310,['frustrated_JJ'],-3.392317423,10.97089025
+intimidate_VB,178,1829,"['intimidate_VBN', 'intimidate_VBD', 'intimidate_VBG']",-3.361105929,11.27651653
+urge_NN,154,1550,['urge_NN'],-3.331265959,11.48546342
+depressed_JJ,216,2126,['depressed_JJ'],-3.299038379,10.99736246
+overwhelm_VB,357,3434,"['overwhelm_VBN', 'overwhelm_VBD', 'overwhelm_VB', 'overwhelm_VBZ', 'overwhelm_VBP']",-3.26589406,10.2724697
+lonely_JJ,229,2187,"['lonely_JJ', 'lonely_JJR', 'lonely_JJS']",-3.255533717,10.91304617
+sadness_NN,178,1633,"['sadness_NN', 'sadness_NNP']",-3.197575645,11.27651653
+insecure_JJ,112,996,['insecure_JJ'],-3.15264701,11.94489504
+remorse_NN,97,859,['remorse_NN'],-3.146601479,12.15233712
+unpleasant_JJ,400,3193,['unpleasant_JJ'],-2.996840648,10.10839377
+confident_JJ,1042,8302,['confident_JJ'],-2.994103654,8.727110399
+ashamed_JJ,193,1517,['ashamed_JJ'],-2.974548333,11.15979292
+compel_VB,708,4957,"['compel_VBN', 'compel_VBD', 'compel_VBZ', 'compel_VB']",-2.807645993,9.284644412
+helpless_JJ,212,1431,['helpless_JJ'],-2.754887502,11.02432951
+numb_JJ,103,679,['numb_JJ'],-2.720767237,12.06574943
+powerless_JJ,154,980,['powerless_JJ'],-2.669851398,11.48546342
+embarrassed_JJ,147,915,['embarrassed_JJ'],-2.637955588,11.55257762
+comfortable_JJ,2731,15553,['comfortable_JJ'],-2.509691668,7.337036363
+uneasy_JJ,206,1105,['uneasy_JJ'],-2.423330127,11.06574943
+uncomfortable_JJ,757,3842,['uncomfortable_JJ'],-2.343492314,9.188100472
+helplessness_NN,119,429,['helplessness_NN'],-1.850016074,11.8574322
+dizzy_JJ,127,415,['dizzy_JJ'],-1.708282839,11.76356527
+pressured_JJ,116,270,['pressured_JJ'],-1.218834602,11.89426897
+nauseous_JJ,89,193,['nauseous_JJ'],-1.116723606,12.27651653
