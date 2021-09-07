@@ -13,7 +13,7 @@ Collocational data is organized into directories as follows:
 - perception_analysis.ipynb contains the code used to generate the collocational data
 
 # Works Cited
-"Exploring the Sensory Spaces of English Perceptual Verbs in Natural Language Data"
+Roxana Girju and David Peng. Exploring the Sensory Spaces of English Perceptual Verbs in Natural Language Data. In the Proceedings of the 1st Workshop on Multisensory Data and Knowledge (MDK 2021), collocated with the 3rd Conference on Language, Data and Knowledge (LDK 2021), CEUR-WS.org, Zaragoza, Spain, Sept. 2021.
 
 # License
 This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.
